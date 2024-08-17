@@ -335,6 +335,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-figure
   jekyll-paginate
+  jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap
   kramdown

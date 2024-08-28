@@ -3,8 +3,8 @@
 ---
 
 $brown: #B59F62;
-$teal: #AEAEAE;
-$black: #111;
+$teal: #C8C8C9;
+$black: #BCA060;
 $primary: $teal;
 $dark:    $black;
 $enable-rounded: false;
@@ -33,7 +33,7 @@ img {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-weight:700;
+    font-weight:300;
 }
 .site-content {
     padding-top:50px;
@@ -208,6 +208,7 @@ img, img:hover {
         padding: 80px 30px 80px 100px;
         h3 {
             margin-bottom:30px;
+            color: #A1A1A1;
         }
         li {
             list-style: none;
@@ -218,8 +219,8 @@ img, img:hover {
                 padding: 2vh 0px 2vh 0px;
                 line-height: 20px;
                 text-decoration: none;
-                color: #8E9AA7;
-                font-weight: 400;
+                color: #BCA060;
+                font-weight: 200;
                 font-size: 18px;
                 position: relative;
             }
@@ -256,11 +257,11 @@ img, img:hover {
         }
     }
     .card-title {
-        font-weight:700;
+        font-weight:300;
         font-size:22px;
         line-height:1.4;
         a { 
-            background-image: linear-gradient(180deg, transparent 89%, $primary 0);
+            background-image: linear-gradient(180deg, transparent 98%, $primary 0);
             background-repeat: no-repeat;
             background-size: 0 100%;
             transition: background-size .6s ease;
@@ -271,10 +272,13 @@ img, img:hover {
         }
     }
     .card-text {
-        font-weight:400;
-        font-size:16px;
-        line-height:1.8;
+        font-weight:200;
+        font-size: 1em;
+        line-height:1.6;
         margin-top:15px;
+        color: #212326;
+        font-family: 'Poppins', sans-serif;
+
     }
     .card-footer {
        font-size:14px;
@@ -403,8 +407,9 @@ img, img:hover {
 }
 .posttitle {
     font-size:50px;
-    font-weight:700;
+    font-weight:300;
     line-height:1.2;
+    color: #BCA060;
 }
 .entry-featured-image {  
     width:940px;  
@@ -445,6 +450,8 @@ img, img:hover {
 .article-post {    
     font-size:18px;
     p {
+        color: #77787A;
+        font-family: 'Poppins', sans-serif;
         margin-top:30px;
         margin-bottom:30px;
     }

@@ -3,7 +3,7 @@
 ---
 
 $brown: #B59F62;
-$teal: #C8C8C9;
+$teal: #DADADC;
 $black: #BCA060;
 $primary: $teal;
 $dark:    $black;
@@ -34,6 +34,13 @@ img {
 
 h1,h2,h3,h4,h5,h6 {
     font-weight:300;
+}
+
+
+
+h2 {
+    color: #CBAF69;
+
 }
 .site-content {
     padding-top:50px;
@@ -415,8 +422,8 @@ img, img:hover {
 }
 .posttitle {
     font-size:50px;
-    font-weight:300;
-    line-height:1.2;
+    font-weight:200;
+    line-height:1.1;
     color: #BCA060;
 }
 .entry-featured-image {  
@@ -458,10 +465,11 @@ img, img:hover {
 .article-post {    
     font-size:18px;
     p {
-        color: #77787A;
+        color: #3E3E3E;
         font-family: 'Poppins', sans-serif;
         margin-top:30px;
         margin-bottom:30px;
+        font-weight: 300;
     }
     code {
         font-size: 15px;
@@ -478,6 +486,26 @@ img, img:hover {
         margin-left:2px;
         box-shadow: 0 1px 0 0 rgba(0,0,0,0.1);
     }
+
+}
+
+.list-header {
+    color: #CBAF69;
+    font-weight: 400;
+}
+
+.external {
+    color: #2986CC;
+    text-decoration: underline;
+    font-weight: 300;
+    text-underline-offset: 3px;
+
+}
+
+.separator {
+    border-top: 3px solid #CBAF69;
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
 
 .c-rating button {
@@ -534,6 +562,7 @@ img, img:hover {
         padding:5px 7px;
         display:inline-block;
         margin: 0 3px;
+        font-weight: 200;
     }
 }
 

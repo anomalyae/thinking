@@ -7,7 +7,7 @@ tags: [ Business Strategy ]
 image: assets/images/sdo-1.jpg
 ---
 
-<p>As technology continues to reshape our world, a new paradigm forgoing traditional economic fundamentals has emerged, with data at its core.<br> Pivotal in seeding future value and reshaping business dynamics in the AI era, data is the unfair advantage enabling exponential growth and parabolic moves in productivity for AI-enabled businesses everywhere.</p>
+<p>As technology continues to reshape our world, a new paradigm forgoing traditional economic fundamentals has emerged, with data at its core.<br> Pivotal in seeding future value and reshaping business dynamics in <i>the</i> AI era, data is the unfair advantage enabling exponential growth and parabolic moves in productivity for AI-enabled businesses everywhere.</p>
 
 ##### The New Factors of Production
 
@@ -35,7 +35,7 @@ This is a limited window of opportunity which can drastically increase current s
 ##### Structured Data as Information Capital
 
 
-Structured data's potential ripples beyond the organization of information; It's a catalyst for bringing offline, real-world artifacts into the digital realm, enriching available information, and enabling a multitude of expressions and possibilities for the resultant datasets.
+Structured data's potential ripples beyond the organization of information; It's a catalyst for bringing offline, real-world artifacts into the digital realm, enriching available information, and enabling a multitude of expressions and possibilities for the resultant datasets and streams.
 
 Data as a Capacity-Building Resource 
 
@@ -69,15 +69,15 @@ Structured data can introduce a level of portability that challenges the traditi
 Mckinsey’s article <a href="https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/charting-a-path-to-the-data-and-ai-driven-enterprise-of-2030" class="external" target="_blank">Charting a path to the data- and AI-driven enterprise of 2030</a> speaks of the need, and challenges associated with transitioning to structured data: 
 > Creating value from unstructured data is a much bigger and more time-intensive effort than many realize. Significant challenges include cleansing and tagging requirements, privacy and bias concerns, skyrocketing cloud storage and networking costs, and often expensive conversion processes. Data leaders will need to invest in building new capabilities such as natural-language processing to help convert the unstructured data so that LLMs can “understand” and use it.
 
-<p>Bespoke solutions for transforming data to a structured state have historically been cost-prohibitive, time-consuming and resource-intensive.<br>By applying AI-based capabilities to industry-specific problems, we can start structuring unstructured data rapidly and unlocking its latent potential.</p><p>At Anomaly, we think long and hard about what the future might look like, what we want it to look like, and our stance on the subject at hand.<br>While mulling Jobs in the Age of AI, an underserved segment with immediate impact surfaced. Despite networked systems, most of the world's talent uses resumes - digital replicas of paper-based professional qualifications - to seek jobs. These sit in unstructured form with no ubiquitous system to structure them, no marketplace to serve them, and no system to track the development of what are effectively digital personas.</p>
+<p>Bespoke solutions for transforming data to a structured state have historically been cost-prohibitive, time-consuming and resource-intensive.<br>By applying AI-based capabilities to industry-specific problems, we can start structuring unstructured data rapidly and unlocking its latent potential.</p><p>At Anomaly, we think long and hard about what the future might look like, what we want it to look like, and our stance on the subject at hand.<br>While mulling Jobs in the Age of AI, we reviewed segments of the current employment pipeline and evaluated mechanisms for incremental improvement which hold the potential to have disproportionate impact. Despite networked systems, most of the world's talent uses resumes - digital replicas of paper-based professional qualifications - to seek employment. These sit in unstructured form with no ubiquitous system to structure them, no marketplace to serve them, and no system to track the development of what are effectively digital personas.</p>
 
 ##### Skygate: Applying Structured Data to Recruitment
 
-We built Skygate, an intelligent document processing platform, to enable recruiters and large employers to structure, edit, format, and store or port candidate data. Recruitment teams can access the following AI-powered benefits today:
+We built Skygate, an <a href="https://www.perplexity.ai/search/what-is-intelligent-document-p-OKXp.9L7ROW5Z0eZhZiJAw" class="external" target="_blank">intelligent document processing</a> platform, to enable recruiters and large employers to parse, structure, edit, format, and store or port candidate data from resumes using reasoning-based AI, instantly.<br>By doing so, employers are no longer constrained by the bottleneck of slow, limited data. Recruitment teams globally can access the following AI-powered benefits today:
 
 
 
-Supercharge Recruitment
+Supercharged Recruitment
 1. <span class="list-header">Increased Throughput:</span> Process more candidates in less time, expanding your talent pool.
 2. <span class="list-header">Improved Quality:</span> Surface better-matched candidates by  comparing and analyzing structured resume data.
 3. <span class="list-header">Enhanced Accessibility:</span> Connect more people to opportunities by efficiently processing and matching skills to job requirements.
@@ -112,9 +112,8 @@ Beyond Recruitment: Wider Applications
 4. <span class="list-header">Healthcare:</span> Improve patient outcomes through structured medical records and research data, enabling personalized treatment plans and more effective population health management.
 5. <span class="list-header">Education:</span> Personalize learning experiences using structured data on student performance and preferences, leading to improved educational outcomes and more engaging learning experiences.
 
-As with all waves of technology, adoption rates for AI-enabled transformation will vary and be unevenly distributed across geographies. The question isn't whether structured data will reshape industries, but how quickly organizations will adapt to harness its power.
-> Vision, ethos and adaptability will likely be *the* defining traits of the next generation of popular enterprises, with structured data underpinning them.
+As with all waves of technology, adoption rates for AI-enabled transformation will vary and be unevenly distributed across geographies. However, its inevitability is no longer in question, and its unprecedented potential, a powerful proposition to be reckoned with.
+> Vision, ethos and adaptability will likely be *the* defining traits of the next generation of popular enterprises, with structured data, artifical intelligence and cohesive data-driven systems underpinning them.
 
-By structuring human capital data today, organizations are laying the foundation for a more efficient, equitable, and innovative tomorrow.<br> Are you ready to unlock the full potential of your data and your workforce? Visit <a href="https://www.getskygate.com" class="external" target="_blank">www.getskygate.com</a> to start your journey towards a data-empowered future.
-
+By structuring human capital data today, organizations are laying the foundation for a faster, more productive, and innovative tomorrow.<br> Visit <a href="https://www.getskygate.com" class="external" target="_blank">www.getskygate.com</a> to reimagine and spark human capital in the age of intelligence.
 

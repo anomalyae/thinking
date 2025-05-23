@@ -4,11 +4,26 @@ disqus: false
 archive: false
 post_class: post-template
 ---
-
 <div class="entry-header">
     <!-- Post Title -->
     <h1 class="posttitle">{{ page.title }}</h1>
-    <!-- Author & Date  Box -->
+    
+    <!-- Blockchain Verification Byline -->
+    {% if page.blockchain or page.transaction_hash %}
+    <div class="blockchain-verification mt-2 mb-3">
+        <span class="eth-timestamp">
+            Timestamped & Verified on {% if page.blockchain %}{{ page.blockchain }}{% else %}Ethereum/Arbitrum{% endif %}
+            {% if page.transaction_hash %}
+            <a href="{% if page.blockchain == 'Arbitrum' %}https://arbiscan.io/tx/{% else %}https://etherscan.io/tx/{% endif %}{{ page.transaction_hash }}" 
+               target="_blank" title="View verification on blockchain">
+                <i class="fas fa-link"></i>
+            </a>
+            {% endif %}
+        </span>
+    </div>
+    {% endif %}
+    
+    <!-- Author & Date Box -->
    <!-- {% assign author = site.authors[page.author] %}
     {% if page.author %}
     <div class="d-flex align-items-center mt-4">
@@ -29,37 +44,30 @@ post_class: post-template
     </div>
     {% endif %} -->
 </div>
-
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
 {% if site.adsense == "enabled" %}
     {% include adsense-under-header.html %}
 {% endif %}
-
 <!-- Featured Image -->
 {% include featured-image.html %}
-
 <!-- Content -->
 {% include article.html %}
-
+{% include blockquote-share.html %}
+{% include image-magnifier.html %}
 <!-- Rating -->
 {% if page.rating %}
 <div class="rating mt-4 mb-4 d-flex align-items-center">
     <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
 </div>
 {% endif %}
-
 <!-- Author Box if enabled from _config.yml -->
 {% include author-box.html %}
-
 <!-- Comments if not disabled with comments: false -->
 {% include comments.html %}
-
 <!-- Share -->
 {% include share.html %}
-
 <!-- Related Post -->
 {% include related-posts.html %}
-
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->

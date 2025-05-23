@@ -1,36 +1,49 @@
 ---
 layout: post
 title:  "Trivial Pursuit? - Jobs In The Age Of AI"
-author: Yasser
+author: Anomaly
 categories: [ Work ]
-tags: [ Business Strategy, Exploration ]
-image: assets/images/jobs-1.jpg
+tags: [ Business Strategy, Exploration, Employment ]
+image: assets/images/jobs-ai.jpg
 ---
 
 
-Much has been said about the AI displacing jobs, and between the doomssayers and the deniers, much continues to be said. 
+Much has been said about AI displacing jobs, much continues to be said.
 
-Artifical Intelligence is a tool. Like many before it, and others that will follow it. it will be used to build and to uplift, and by others to destroy. 
-It will be weaoponised in many forms and that will inevitably cause additional misery for some humans somewhere. But, it will also be used to build things never before possible, to the benefit of the many.
-
-
-Before we ask "How can we create more opportunities for people in the age of AI?", let's first ask "How can we create more opportunities?"
-
-What are the components that need to be rethought of, which ones need tweaking, and which ones are missing? 
+Technology, a tool sometimes borne of necessity, but mostly of the human capacity to imagine, puts more within human reach. It accentuates the power to uplift or tear down, to build or destroy. <br>AI is a tool of unprecedented power but differentiated in its distribution and unprecedented accessibility.
 
 
-Technology reduces barriers, and this leads to more entrants in to the marketplace, which creates various 
+more content to come here. 
+
+A historical analysis will tell you technology displaces jobs but creates many more as it runs its arc. It spawns entire new industries, some adjacent and some divergent. There is a deeper point here though. Jobs - the thing most people <i>just do</i> are in trouble, 
+
+Yes, a machine can work cheaper, better, faster and longer than you can, but why do most people do the thing they do? <i>Why do we work?</i>
+To make ends meet, pay rent and other obvious reasons but why do we specifically do the thing we're doing, instead of the thing our neighbour does, or the guy standing next to you in the elevator does?
 
 
-Why do we work? 
 
 
-Is it purely to meet our needs? 
 
-Let's consider everyone on the planet has security, a roof and 3 square meals. Does everyone call it a day and go fishing for the rest of their lives? No, that notion is absurd. We work because we have creative energy which requires expression, and curiousity that demands action; the power to imagine and the desire to pursue the fulfillment of that vision. It is this pursuit that yields what we call innovation. 
+![Reasons why humans work](/assets/images/reasons.png){: .magnifiable}
 
-Technology, a tool sometimes borne of necessity, but mostly of the human capacity to imagine, reduces barriers including those which limited entry to markets. People without the training to express their vision will find in it a potent engineer, artist, musician, composer, illustrator, coder or whatever. No, AI will not reduce jobs, it will 10x new businesses. It will proliferate and permeate into the lives of many as a teacher and a guide, and as a talented extension of their own mind.  
 
-visia  
 
-What effect does Universal Basic Income have? 
+
+
+Some reasons matter more than others.<br>
+Imagine everyone is economically secure, socially content, credentialed and has an abundance of time.<br>
+<i>Do humans stop working?</i> No, the very notion is absurd.
+
+> We work because we possess creative energy which requires expression and curiosity that demands action; the power to imagine and the desire to pursue that visions fulfillment. 
+
+
+
+It is this pursuit that yields what we call innovation; the process of infusing and transmuting our energy into something new. 
+
+
+This is a long-winded way to say that AI will not displace jobs, rather displace energy. 
+
+
+notes to expound on:
+Maybe some energy deserves displacement if it isn't efficient or allocated properly. Maybe displacement leads to optimization? Maybe additional systems are required to manage the transition of energy as it is being displaced? 
+

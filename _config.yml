@@ -14,15 +14,14 @@ remote_theme: wowthemesnet/jekyll-theme-memoirs
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-
+  anomaly:
+    name: "Anomaly LLC-FZ"
+    display_name: "Anomaly"
+    avatar: 'assets/images/glitch.png'  # use your logo
+    email: development@anomaly.ae
+    web: https://anomaly.ae
+    description: "Abstract thinking at Anomaly. Exploring non-linear pathways in technology and innovation."
+    
 # Plugins
 plugins:
   - jekyll-paginate

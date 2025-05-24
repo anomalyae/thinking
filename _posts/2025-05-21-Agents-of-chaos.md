@@ -9,9 +9,9 @@ blockchain: "Arbitrum"
 transaction_hash: "0xd7918c3b60daee5b9aa725486c742c1ae2a9139a34b1c1e9f5e1460c8cde64e0" 
 ---
 
-<p> No one can agree on what an AI agent is,  but everyone’s selling one.</p>
+<p class="font-nevermind green"> No one can agree on what an AI agent is,  but everyone’s selling one.</p>
 
-<p>Buzzwords often do more harm than good and Agent is the latest in this list. As the article linked below highlights, the people and companies who create and fund Artificial Intelligence are unable to form consensus on the definition of Agent. <i>How is it then that consultants, integrators and software companies are able to package and sell Agents?</i>
+<p class="font-nevermind">Buzzwords often do more harm than good and Agent is the latest in this list. As the article linked below highlights, the people and companies who create and fund Artificial Intelligence are unable to form consensus on the definition of Agent. <i>How is it then that consultants, integrators and software companies are able to package and sell Agents?</i>
 </p>
 
 <div style="border: 1px solid #eaeaea; border-radius: 0; padding: 20px; margin: 30px 0; background-color: #fcfcfc; font-family: 'Poppins', sans-serif;">
@@ -50,8 +50,8 @@ transaction_hash: "0xd7918c3b60daee5b9aa725486c742c1ae2a9139a34b1c1e9f5e1460c8cd
   </div>
 </div>
 
-<p>Most Agents aren’t much more than workflow orchestration tools with an interface bolted on, and marketing them as such is a disservice to the industry today and in the future.</p>
-<p>Anthropic, makers of Claude.ai,  provide a good frame of reference to define agents</p>
+<p class="font-nevermind">Most Agents aren’t much more than workflow orchestration tools with an interface bolted on, and marketing them as such is a disservice to the industry today and in the future.</p>
+<p class="font-nevermind">Anthropic, makers of Claude.ai,  provide a good frame of reference to define agents</p>
 
 <div style="text-align: center; margin: 2em 0;">
   <iframe 
@@ -63,18 +63,18 @@ transaction_hash: "0xd7918c3b60daee5b9aa725486c742c1ae2a9139a34b1c1e9f5e1460c8cd
   </iframe>
 </div>
 
-<p>Agents have more autonomy which makes them inherently less predictable. While this freedom is wonderful for scope-defined research or calculating routes based on changing parameters in a fixed simulation, it is less than ideal for automation, reproducibility, customer-facing interfaces or where adherence to vision or values is important.</p><p> So, why the push for agents?</p>
+<p class="font-nevermind">Agents have more autonomy which makes them inherently less predictable. While this freedom is wonderful for scope-defined research or calculating routes based on changing parameters in a fixed simulation, it is less than ideal for automation, reproducibility, customer-facing interfaces or where adherence to vision or values is important.</p><p> So, why the push for agents?</p>
 <hr>
 
 <h6 class="section-header">Table Stakes: AI Everywhere.</h6>
-<p>ChatGPT, Claude, Grok, Gemini, Meta AI, Mistral, Qwen, DeepSeek, everyone has an AI. Some are paid, others are free. Most are proprietary while the models originating from China are mostly free and/or open source which is refreshing to see as it democratises access and unlocks deeper innovation.
+<p class="font-nevermind">ChatGPT, Claude, Grok, Gemini, Meta AI, Mistral, Qwen, DeepSeek, everyone has an AI. Some are paid, others are free. Most are proprietary while the models originating from China are mostly free and/or open source which is refreshing to see as it democratises access and unlocks deeper innovation.
 The implication is commodification with <i>little monetary value accrual</i>.</p>
 
 <h5 class="section-header">Generative AI: Maturing, Multifaceted Technology.</h5>
-<p>AI trained on a large corpus of data is capable of mesmerising outputs. We marvel because generative AI bridges skills gaps immediately and is affordable for most people, historically two massive barriers to entry.</p>
-<p>Large Language Models (LLM’s) have changed much of the writing one encounters. People use AI to write everything from essays to cover letters. You can use Suno.com to create music, Midjourney to create images, Higgsfield.AI to transform created images into jaw-dropping video. These are tremendous technological accomplishments and a massive neutraliser for people who didn’t have the training or opportunities to develop and refine their own skills. The fidelity and quality of these tools will only continue to improve and result in stunning work <i>at a fraction of the cost</i> when harnessed correctly.</p>
+<p class="font-nevermind">AI trained on a large corpus of data is capable of mesmerising outputs. We marvel because generative AI bridges skills gaps immediately and is affordable for most people, historically two massive barriers to entry.</p>
+<p class="font-nevermind">Large Language Models (LLM’s) have changed much of the writing one encounters. People use AI to write everything from essays to cover letters. You can use Suno.com to create music, Midjourney to create images, Higgsfield.AI to transform created images into jaw-dropping video. These are tremendous technological accomplishments and a massive neutraliser for people who didn’t have the training or opportunities to develop and refine their own skills. The fidelity and quality of these tools will only continue to improve and result in stunning work <i>at a fraction of the cost</i> when harnessed correctly.</p>
 
-<p>Technology is not without its risk vectors though. When people use LLM’s to replace their thinking instead of improving it, mundane artefacts emerge. When music is uploaded for the sake of capturing streaming dollars, it dulls collective standards.</p>
+<p class="font-nevermind">Technology is not without its risk vectors though. When people use LLM’s to replace their thinking instead of improving it, mundane artefacts emerge. When music is uploaded for the sake of capturing streaming dollars, it dulls collective standards.</p>
 
 
 <div style="border: 1px solid #eaeaea; border-radius: 0; padding: 20px; margin: 30px 0; background-color: #fcfcfc; font-family: 'Poppins', sans-serif;">
@@ -114,14 +114,14 @@ The implication is commodification with <i>little monetary value accrual</i>.</p
 </div>
 
 
-<p>Art - writing included - is creative energy shaped by emotion, philosophy and lived experience guided by intention. While some AI-generated outputs meticulously crafted by user inputs are truly excellent, most users are not incentivised by qualitative outcomes; their output which unfortunately constitutes a significant portion of the content available online, lacks the depth, coherence and intentionality of artistic expression.</p>
-<p>This compromised artistic integrity creates standard deviations between intention and outcome which are a form of emergent chaos, more damaging than noise as they risk stagnation and the standardisation of what will eventually become mediocrity.</p>
+<p class="font-nevermind">Art - writing included - is creative energy shaped by emotion, philosophy and lived experience guided by intention. While some AI-generated outputs meticulously crafted by user inputs are truly excellent, most users are not incentivised by qualitative outcomes; their output which unfortunately constitutes a significant portion of the content available online, lacks the depth, coherence and intentionality of artistic expression.</p>
+<p class="font-nevermind">This compromised artistic integrity creates standard deviations between intention and outcome which are a form of emergent chaos, more damaging than noise as they risk stagnation and the standardisation of what will eventually become mediocrity.</p>
 
 
 
 <h4 class="section-header">The Rise of the “Agent” Label</h4>
 
-<p>The Agent label today falls into two categories.</p>
+<p class="font-nevermind">The Agent label today falls into two categories.</p>
 
 <span class="list-header">Guided Execution:</span> 
 <ul class="custom-bullets">
@@ -134,9 +134,9 @@ The implication is commodification with <i>little monetary value accrual</i>.</p
 <li>Redundancy: Free Generative AI can provide strategy, visual and written content, planning and ideas which were previously gated by access and/or knowledge. Organizations and individuals who stand to lose revenue are incentivised to maximise profit while they can.</li>
 </ul>
 
-<p><i>Sensationalism is a symptom of mediocrity</i>. In this sense the term Agent is akin to ostentatious thumbnails and clickbait titles. An over-the-top thumbnail doesn’t lead to high-quality content any more than a social post designed to go viral enriches its audience. Worse, it attracts opportunists and grifters both of whom add noise and obfuscate signal. Entities selling agents stand to gain from doing so by capitalising on industry-wide momentum, or wanting to differentiate their undifferentiated and often unnecessary offerings.</p>
+<p class="font-nevermind"><i>Sensationalism is a symptom of mediocrity</i>. In this sense the term Agent is akin to ostentatious thumbnails and clickbait titles. An over-the-top thumbnail doesn’t lead to high-quality content any more than a social post designed to go viral enriches its audience. Worse, it attracts opportunists and grifters both of whom add noise and obfuscate signal. Entities selling agents stand to gain from doing so by capitalising on industry-wide momentum, or wanting to differentiate their undifferentiated and often unnecessary offerings.</p>
 
-<p>As emerging technology changes the landscape, new solutions must emerge and take centre stage and legacy systems must recede, otherwise stagnation ensues. Not their algorithms, we need new surfacing mechanisms which don’t prioritise the provider; ones which scan for signal while filtering for incompatibility and undesirability.</p>
+<p class="font-nevermind">As emerging technology changes the landscape, new solutions must emerge and take centre stage and legacy systems must recede, otherwise stagnation ensues. Not their algorithms, we need new surfacing mechanisms which don’t prioritise the provider; ones which scan for signal while filtering for incompatibility and undesirability.</p>
 
 
 
@@ -211,7 +211,7 @@ Even in the B2B context, it is a reenactment of the Cloud-based vs on-prem debat
 </svg>
 
 <h5 class ="section-header">The Real Costs of the Hype</h5>
-<p>The rush to label everything as an "AI Agent" risks:</p>
+<p class="font-nevermind">The rush to label everything as an "AI Agent" risks:</p>
 
 <ul class="custom-bullets">	
 <li>Lowering expectations for what real agency should be.</li>
@@ -223,7 +223,7 @@ Even in the B2B context, it is a reenactment of the Cloud-based vs on-prem debat
 </ul>
 
 <h5 class ="section-header">The Road Ahead:</h5>
-<p>Agents will ideally coexist as collaborators, personalized in understanding, tempered in ability.  For this vision to come to fruition, we must channel our energy towards:</p>
+<p class="font-nevermind">Agents will ideally coexist as collaborators, personalized in understanding, tempered in ability.  For this vision to come to fruition, we must channel our energy towards:</p>
 
 <ul class="custom-bullets">
 <li>Adaptive learning in systems design</li>
@@ -232,5 +232,5 @@ Even in the B2B context, it is a reenactment of the Cloud-based vs on-prem debat
 <li>Architectures that support persistence and emergent capabilities</li>
 </ul>
 
-<p>At Anomaly, we believe that <i>personalization is the key unlock for Artificial Intelligence</i> and that this is the fulcrum where the industry will ultimately converge. This belief forms the foundation of our thesis, and it guides our work in Long-term Memory, Context-Aware Models, User-Specific Tuning Methodologies, and Ethical Frameworks, so that when agents do emerge, they enable humans to build a safer, empowered and more equitable future.</p>
-<p>AI is broadly available infrastructure. The direction and depth of our collective building efforts will shape future development. It must therefore be ethical, resilient, performant and focus on ingenuity as new paradigms mandate expanding our perspectives to identify, accommodate and address increasing opportunities and vulnerabilities.</p>
+<p class="font-nevermind">At Anomaly, we believe that <i>personalization is the key unlock for Artificial Intelligence</i> and that this is the fulcrum where the industry will ultimately converge. This belief forms the foundation of our thesis, and it guides our work in Long-term Memory, Context-Aware Models, User-Specific Tuning Methodologies, and Ethical Frameworks, so that when agents do emerge, they enable humans to build a safer, empowered and more equitable future.</p>
+<p class="font-nevermind">AI is broadly available infrastructure. The direction and depth of our collective building efforts will shape future development. It must therefore be ethical, resilient, performant and focus on ingenuity as new paradigms mandate expanding our perspectives to identify, accommodate and address increasing opportunities and vulnerabilities.</p>

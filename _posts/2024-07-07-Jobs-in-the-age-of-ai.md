@@ -2,8 +2,8 @@
 layout: post
 title:  "Trivial Pursuit? - Jobs In The Age Of AI"
 author: Anomaly
-categories: [ Work ]
-tags: [ Business Strategy, Exploration, Employment ]
+categories: [ Thesis ]
+tags: [ Human-Energy, Framework ]
 image: assets/images/jobs-ai.jpg
 ---
 
@@ -34,7 +34,7 @@ Some reasons matter more than others.<br>
 Imagine everyone is economically secure, socially content, credentialed and has an abundance of time.<br>
 <i>Do humans stop working?</i> No, the very notion is absurd.
 
-> We work because we possess creative energy which requires expression and curiosity that demands action; the power to imagine and the desire to pursue that visions fulfillment. 
+> We work because we possess creative energy which requires expression and curiosity that demands action; the power to imagine and the desire to pursue that vision's fulfillment. 
 
 
 

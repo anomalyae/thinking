@@ -9,6 +9,9 @@ $primary: $teal;
 $dark:    $black;
 $enable-rounded: false;
 
+.blue {color: #2292A4;}
+.green {color: #566E3D;}
+
 @import "bootstrap/functions";
 @import 'bootstrap/variables';
 @import "bootstrap/mixins";
@@ -24,7 +27,7 @@ body, input, button, select, optgroup, textarea {
 }
 body {
     line-height:1.7;
-    background: #f4f4f4;
+    background: #FAFAFA;
 }
 a {
     color: darken($primary, 24%);
@@ -70,6 +73,9 @@ h2 {
         line-height:1.2;
     }
 }
+
+
+
 .bigradius {
     border-radius: 40px;
 }

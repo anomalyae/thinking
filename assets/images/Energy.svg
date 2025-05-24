@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="768" height="588" viewBox="0 0 768 588" style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style class="text-font-style fontImports" data-font-family="Roboto">@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=block');</style>
+<g id="items" style="isolation: isolate">
+<g id="blend" style="mix-blend-mode: normal">
+
+<!-- Energy Level Square (new) -->
+<g id="g-root-cp_0_energy" data-item-order="-245072" transform="translate(38, 170)">
+<g id="cp_0_energy-fill" stroke="none" fill="#ffd700">
+<g><path d="M 10 10L 178 10L 178 202L 10 202Z"></path></g>
+</g>
+</g>
+
+<!-- System Level Square -->
+<g id="g-root-cp_1_lines-1_1up9xxj1speha9-fill" data-item-order="-245066" transform="translate(206, 170)">
+<g id="cp_1_lines-1_1up9xxj1speha9-fill" stroke="none" fill="#287daf">
+<g><path d="M 10 10L 178 10L 178 202L 10 202Z"></path></g>
+</g>
+</g>
+
+<!-- Execution Level Square -->
+<g id="g-root-cp_2_lines-2_1ltmxon1spei2z-fill" data-item-order="-245060" transform="translate(374, 170)">
+<g id="cp_2_lines-2_1ltmxon1spei2z-fill" stroke="none" fill="#17aaff">
+<g><path d="M 10 10L 178 10L 178 202L 10 202Z"></path></g>
+</g>
+</g>
+
+<!-- Method Level Square -->
+<g id="g-root-cp_3_lines-3_1ltmxon1spei31-fill" data-item-order="-245054" transform="translate(542, 170)">
+<g id="cp_3_lines-3_1ltmxon1spei31-fill" stroke="none" fill="#80d0ff">
+<g><path d="M 10 10L 178 10L 178 202L 10 202Z"></path></g>
+</g>
+</g>
+
+<!-- Title -->
+<g id="g-root-tx_understa_1hefwnb1spefpj-fill" data-item-order="0" transform="translate(194, 38)">
+<g id="tx_understa_1hefwnb1spefpj-fill" stroke="none" fill="#c1ac77">
+<g><text style="font-style: normal; font-variant-caps: normal; font-weight: light; font-width: normal; font-size: 18px; line-height: normal; font-family: Roboto, sans-serif; white-space: pre;" text-anchor="middle">
+<tspan x="170" y="42" dominant-baseline="ideographic">Conceptual Dissection of Work</tspan></text>
+</g>
+</g>
+</g>
+
+<!-- High-Level -->
+<g id="g-root-tx_highleve_mcbuvb1speghs-fill" data-item-order="0" transform="translate(38, 122)">
+<g id="tx_highleve_mcbuvb1speghs-fill" stroke="none" fill="#011640">
+<g><text style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; font-size: 15px; line-height: normal; font-family: Roboto, sans-serif; white-space: pre;">
+<tspan x="16.78" y="31" dominant-baseline="ideographic">High-Level</tspan></text>
+</g>
+</g>
+</g>
+
+<!-- Low-Level -->
+<g id="g-root-tx_lowlevel_90vchz1spei2p-fill" data-item-order="0" transform="translate(638, 122)">
+<g id="tx_lowlevel_90vchz1spei2p-fill" stroke="none" fill="#011640">
+<g><text style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; font-size: 15px; line-height: normal; font-family: Roboto, sans-serif; white-space: pre;">
+<tspan x="12.56" y="31" dominant-baseline="ideographic">Low-Level</tspan></text>
+</g>
+</g>
+</g>
+
+<!-- Energy Level Label -->
+<g id="g-root-tx_energy_level" data-item-order="0" transform="translate(62, 386)">
+<g id="tx_energy_level-fill" stroke="none" fill="#c1ac77">
+<g><text style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; font-size: 20px; line-height: normal; font-family: Roboto, sans-serif; white-space: pre;">
+<tspan x="14.08" y="34" dominant-baseline="ideographic">Energy level</tspan></text>
+</g>
+</g>
+</g>
+
+<!-- System Level Label -->
+<g id="g-root-tx_purpose_1ur5d6v1spegaq-fill" data-item-order="0" transform="translate(230, 386)">
+<g id="tx_purpose_1ur5d6v1spegaq-fill" stroke="none" fill="#c1ac77">
+<g><text style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; font-size: 20px; line-height: normal; font-family: Roboto, sans-serif; white-space: pre;">
+<tspan x="14.08" y="34" dominant-baseline="ideographic">System level</tspan></text>
+</g>
+</g>
+</g>
+
+<!-- Execution Level Label -->
+<g id="g-root-tx_immediat_v97taf1speh3g-fill" data-item-order="0" transform="translate(386, 386)">
+<g id="tx_immediat_v97taf1speh3g-fill" stroke="none" fill="#c1ac77">
+<g><text style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; font-size: 20px; line-height: normal; font-family: Roboto, sans-serif; white-space: pre;">
+<tspan x="15.4" y="34" dominant-baseline="ideographic">Execution level</tspan></text>
+</g>
+</g>
+</g>
+
+<!-- Method Level Label -->
+<g id="g-root-tx_taskexec_73rif1spehvq-fill" data-item-order="0" transform="translate(566, 386)">
+<g id="tx_taskexec_73rif1spehvq-fill" stroke="none" fill="#c1ac77">
+<g><text style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; font-size: 20px; line-height: normal; font-family: Roboto, sans-serif; white-space: pre;">
+<tspan x="13.09" y="34" dominant-baseline="ideographic">Method level</tspan></text>
+</g>
+</g>
+</g>
+
+<!-- Energy Level Description -->
+<g id="g-root-tx_energy_desc" data-item-order="0" transform="translate(56, 422)">
+<g id="tx_energy_desc-fill" stroke="none" fill="#011640">
+<g><text style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; font-size: 15px; line-height: normal; font-family: Roboto, sans-serif; white-space: pre;">
+<tspan x="13.41" y="31" dominant-baseline="ideographic">Raw creative drive</tspan>
+<tspan x="31.41" y="49" dominant-baseline="ideographic">and human</tspan>
+<tspan x="44.41" y="67" dominant-baseline="ideographic">motivation.</tspan></text>
+</g>
+</g>
+</g>
+
+<!-- System Level Description -->
+<g id="g-root-tx_definest_18k1ukn1speiob-fill" data-item-order="0" transform="translate(224, 422)">
+<g id="tx_definest_18k1ukn1speiob-fill" stroke="none" fill="#011640">
+<g><text style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; font-size: 15px; line-height: normal; font-family: Roboto, sans-serif; white-space: pre;">
+<tspan x="13.41" y="31" dominant-baseline="ideographic">Defines the work's </tspan>
+<tspan x="31.41" y="49" dominant-baseline="ideographic">fundamental </tspan>
+<tspan x="44.41" y="67" dominant-baseline="ideographic">purpose.</tspan></text>
+</g>
+</g>
+</g>
+
+<!-- Execution Level Description -->
+<g id="g-root-tx_describe_hxrax31speiod-fill" data-item-order="0" transform="translate(392, 422)">
+<g id="tx_describe_hxrax31speiod-fill" stroke="none" fill="#011640">
+<g><text style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; font-size: 15px; line-height: normal; font-family: Roboto, sans-serif; white-space: pre;">
+<tspan x="28.38" y="31" dominant-baseline="ideographic">Describes the </tspan>
+<tspan x="15.38" y="49" dominant-baseline="ideographic">immediate work's </tspan>
+<tspan x="50.38" y="67" dominant-baseline="ideographic">nature.</tspan></text>
+</g>
+</g>
+</g>
+
+<!-- Method Level Description -->
+<g id="g-root-tx_explains_1lxds7b1speg3r-fill" data-item-order="0" transform="translate(560, 422)">
+<g id="tx_explains_1lxds7b1speg3r-fill" stroke="none" fill="#011640">
+<g><text style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; font-size: 15px; line-height: normal; font-family: Roboto, sans-serif; white-space: pre;">
+<tspan x="19.25" y="28" dominant-baseline="ideographic">Explains how the </tspan>
+<tspan x="12.25" y="46" dominant-baseline="ideographic">work is carried out.</tspan></text>
+</g>
+</g>
+</g>
+
+<!-- Energy Level Squiggles converging toward System Level -->
+<g id="g-root-cp_0_energy-squiggles" data-item-order="-245072" transform="translate(38, 170)">
+<g id="cp_0_energy-squiggles-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#b8860b" stroke-width="2">
+<g>
+<!-- Multiple squiggly lines converging from various points to a single convergence point -->
+<path d="M 20 40L 30 50L 40 35L 50 45L 60 30L 70 40L 80 25L 90 35L 100 20L 110 30L 120 15L 130 25L 140 18L 150 22L 160 20L 170 19L 178 106"></path>
+<path d="M 25 80L 35 90L 45 75L 55 85L 65 70L 75 80L 85 65L 95 75L 105 60L 115 70L 125 55L 135 65L 145 58L 155 62L 165 60L 175 58L 178 106"></path>
+<path d="M 15 120L 25 130L 35 115L 45 125L 55 110L 65 120L 75 105L 85 115L 95 100L 105 110L 115 95L 125 105L 135 98L 145 102L 155 100L 165 98L 178 106"></path>
+<path d="M 30 160L 40 170L 50 155L 60 165L 70 150L 80 160L 90 145L 100 155L 110 140L 120 150L 130 135L 140 145L 150 138L 160 142L 170 140L 175 138L 178 106"></path>
+<path d="M 10 200L 20 185L 30 195L 40 180L 50 190L 60 175L 70 185L 80 170L 90 180L 100 165L 110 175L 120 160L 130 170L 140 163L 150 167L 160 165L 170 163L 178 106"></path>
+</g>
+</g>
+</g>
+
+<!-- System Level Chart Lines -->
+<g id="g-root-cp_1_lines-1_1up9xxj1speha9-stroke" data-item-order="-245066" transform="translate(206, 170)">
+<g id="cp_1_lines-1_1up9xxj1speha9-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#ffffff" stroke-width="1">
+<g><path d="M 10 104.7193L 112.806 104.7193L 114.8119 121L 121.8328 107.7719L 130.3582 121L 133.8687 92L 140.3881 108.7895L 147.9105 95.0526L 152.9254 112.8596L 157.9403 98.614L 161.9522 107.7719L 169.9761 107.7719L 174.4896 96.0702L 178 114.8947"></path></g>
+</g>
+</g>
+
+<!-- Execution Level Chart Lines -->
+<g id="g-root-cp_2_lines-2_1ltmxon1spei2z-stroke" data-item-order="-245060" transform="translate(374, 170)">
+<g id="cp_2_lines-2_1ltmxon1spei2z-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#ffffff" stroke-width="1">
+<g><path d="M 10 114.5L 13 98.5L 18 125L 19.5 101.5L 23.5 116L 23.5 93L 29.5 118.5L 31.5 90.5L 36.5 118.5L 38 98.5L 40 106.5L 44 92.5L 46 120.5L 49.5 98L 52 110.5L 54.5 95L 56.5 114L 61 90L 62.5 122L 68 90.5L 74.5 122L 78 86.5L 83 120.5L 83 83L 92.5 126.5L 97.5 77L 102 129L 107 87.5L 110.5 124L 114.5 75.5L 119 133.5L 120.5 98.5L 126.5 136.5L 127.5 73L 133.5 120.5L 138.5 72L 143.5 122L 149.5 95.5L 157 141L 160.5 73L 167.5 118L 172 82.5L 175 113L 178 93.5"></path></g>
+</g>
+</g>
+
+<!-- Method Level Chart Lines -->
+<g id="g-root-cp_3_lines-3_1ltmxon1spei31-stroke" data-item-order="-245054" transform="translate(542, 170)">
+<g id="cp_3_lines-3_1ltmxon1spei31-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#ffffff" stroke-width="1">
+<g><path d="M 10 93.5L 13 133.5L 18 75L 23.5 137L 25.5 99L 30 124L 33.5 70.5L 37.5 142.5L 42 98L 46.5 136L 48 106.5L 53 126L 54 78L 60 137L 63.5 60L 68.5 132.5L 72.5 88.5L 76 137L 79 82.5L 84.5 115.5L 87.5 80L 94 124L 98.5 73L 106 118.5L 112.5 82.5L 117.5 141.5L 123 80L 130.5 131L 136.5 63.5L 143 133.5L 149 85.5L 154 132.5L 157 78L 164 152L 166 75L 174 142.5L 178 101"></path></g>
+</g>
+</g>
+
+<!-- Arrow spanning across all levels -->
+<g id="g-root-sy_-1_Vector_1up9xxj1speha8-stroke" data-item-order="-245071" transform="translate(127, 93.95)">
+<g id="sy_-1_Vector_1up9xxj1speha8-stroke" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#a3a3a3" stroke-width="1">
+<g>
+<path d="M -5.219971 0L 484.96 0"></path>
+<path d="M -6.409971 -21.55L -11.009971 -16.95L -6.409971 -12.35" stroke-dasharray="none"></path>
+<path d="M 475.29 -12.35L 479.89 -16.95L 475.29 -21.55" stroke-dasharray="none"></path>
+</g>
+</g>
+</g>
+
+</g>
+</g>
+</svg>

@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anomaly - Why Humans Work</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #ffffff;
+            color: #012a4a;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 12px;
+            padding: 40px;
+            box-shadow: 0 4px 20px rgba(1, 42, 74, 0.1);
+            border: 1px solid rgba(1, 42, 74, 0.05);
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 28px;
+            color: #012a4a;
+            font-weight: 600;
+        }
+        
+        #chord {
+            width: 900px;
+            height: 900px;
+        }
+        
+        #tooltip {
+            position: absolute;
+            padding: 12px 16px;
+            background: rgba(255, 255, 255, 0.98);
+            border: 1px solid rgba(1, 42, 74, 0.1);
+            border-radius: 6px;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s;
+            box-shadow: 0 2px 10px rgba(1, 42, 74, 0.15);
+            z-index: 1000;
+            max-width: 300px;
+            color: #012a4a;
+            font-size: 14px;
+        }
+        
+        .chord-group {
+            cursor: pointer;
+        }
+        
+        .chord {
+            fill-opacity: 0.4;
+            stroke: none;
+            transition: fill-opacity 0.3s;
+        }
+        
+        .chord:hover {
+            fill-opacity: 0.7;
+        }
+        
+        .chord.fade {
+            fill-opacity: 0.05;
+        }
+        
+        .group-arc {
+            cursor: pointer;
+            transition: filter 0.3s;
+        }
+        
+        .group-arc:hover {
+            filter: brightness(0.9);
+        }
+        
+        text {
+            font-size: 11px;
+            fill: #013a63;
+            pointer-events: none;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        }
+        
+        .category-label {
+            font-size: 13px;
+            font-weight: 600;
+            fill: #012a4a;
+        }
+        
+        .category-arc-label {
+            font-size: 14px;
+            font-weight: 600;
+            fill: #012a4a;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .legend {
+            text-align: center;
+            font-size: 14px;
+            color: #2a6f97;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="tooltip"></div>
+    
+    <div class="container">
+        <h3></h3>
+        <svg id="chord"></svg>
+        <div class="legend">Hover over segments to explore connections</div>
+    </div>
+    
+    <script>
+        // Complete data structure with all nodes
+        const categories = {
+            "Economic Reasons": {
+                color: "#012a4a",
+                nodes: ["Income", "Financial security", "Basic needs", "Lifestyle maintenance", "Savings", "Investments", "Retirement planning"]
+            },
+            "Personal Development": {
+                color: "#014f86",
+                nodes: ["Skill acquisition", "Career growth", "Self-improvement"]
+            },
+            "Social Aspects": {
+                color: "#2a6f97",
+                nodes: ["Networking", "Collaboration", "Sense of belonging"]
+            },
+            "Psychological Factors": {
+                color: "#468faf",
+                nodes: ["Self-esteem", "Identity", "Purpose and meaning"]
+            },
+            "Contribution to Society": {
+                color: "#61a5c2",
+                nodes: ["Economic growth", "Innovation", "Public services"]
+            },
+            "Time Structure": {
+                color: "#89c2d9",
+                nodes: ["Daily routine", "Goal setting", "Work-life balance"]
+            },
+            "Physical and Mental Health": {
+                color: "#a9d6e5",
+                nodes: ["Active lifestyle", "Cognitive stimulation", "Stress management"]
+            }
+        };
+        
+        // Create flat array of all nodes with their category info
+        const allNodes = [];
+        const nodeToCategory = {};
+        const nodeColors = {};
+        
+        Object.entries(categories).forEach(([catName, catData]) => {
+            catData.nodes.forEach(node => {
+                allNodes.push(node);
+                nodeToCategory[node] = catName;
+                nodeColors[node] = catData.color;
+            });
+        });
+        
+        // Create connection matrix based on conceptual relationships
+        const connections = {
+            // Economic connections
+            "Income": ["Skill acquisition", "Career growth", "Basic needs", "Lifestyle maintenance", "Self-esteem"],
+            "Financial security": ["Savings", "Investments", "Retirement planning", "Stress management", "Work-life balance"],
+            "Basic needs": ["Income", "Active lifestyle", "Daily routine"],
+            "Lifestyle maintenance": ["Income", "Work-life balance", "Self-esteem"],
+            "Savings": ["Financial security", "Goal setting", "Purpose and meaning"],
+            "Investments": ["Financial security", "Economic growth", "Innovation"],
+            "Retirement planning": ["Financial security", "Goal setting", "Work-life balance"],
+            
+            // Personal Development connections
+            "Skill acquisition": ["Income", "Career growth", "Self-improvement", "Innovation", "Cognitive stimulation"],
+            "Career growth": ["Income", "Skill acquisition", "Self-esteem", "Identity", "Networking"],
+            "Self-improvement": ["Skill acquisition", "Self-esteem", "Purpose and meaning", "Cognitive stimulation"],
+            
+            // Social connections
+            "Networking": ["Career growth", "Collaboration", "Innovation", "Sense of belonging"],
+            "Collaboration": ["Networking", "Innovation", "Public services", "Sense of belonging"],
+            "Sense of belonging": ["Networking", "Collaboration", "Identity", "Self-esteem", "Active lifestyle"],
+            
+            // Psychological connections
+            "Self-esteem": ["Career growth", "Income", "Sense of belonging", "Identity", "Purpose and meaning"],
+            "Identity": ["Career growth", "Sense of belonging", "Self-esteem", "Purpose and meaning"],
+            "Purpose and meaning": ["Self-esteem", "Identity", "Innovation", "Public services", "Goal setting"],
+            
+            // Societal connections
+            "Economic growth": ["Investments", "Innovation", "Public services", "Income"],
+            "Innovation": ["Skill acquisition", "Networking", "Collaboration", "Economic growth", "Cognitive stimulation"],
+            "Public services": ["Collaboration", "Purpose and meaning", "Economic growth"],
+            
+            // Time Structure connections
+            "Daily routine": ["Basic needs", "Active lifestyle", "Work-life balance", "Stress management"],
+            "Goal setting": ["Savings", "Retirement planning", "Purpose and meaning", "Career growth"],
+            "Work-life balance": ["Financial security", "Lifestyle maintenance", "Daily routine", "Stress management"],
+            
+            // Health connections
+            "Active lifestyle": ["Basic needs", "Daily routine", "Sense of belonging", "Stress management"],
+            "Cognitive stimulation": ["Skill acquisition", "Self-improvement", "Innovation", "Stress management"],
+            "Stress management": ["Financial security", "Daily routine", "Work-life balance", "Active lifestyle", "Cognitive stimulation"]
+        };
+        
+        // Build matrix
+        const matrix = [];
+        allNodes.forEach((source, i) => {
+            matrix[i] = [];
+            allNodes.forEach((target, j) => {
+                if (i === j) {
+                    matrix[i][j] = 0;
+                } else if (connections[source] && connections[source].includes(target)) {
+                    // Stronger connections within same category
+                    const sameCategory = nodeToCategory[source] === nodeToCategory[target];
+                    matrix[i][j] = sameCategory ? 40 : 25;
+                } else {
+                    matrix[i][j] = 0;
+                }
+            });
+        });
+        
+        // Setup dimensions
+        const width = 900;
+        const height = 900;
+        const outerRadius = Math.min(width, height) * 0.5 - 150;
+        const innerRadius = outerRadius - 30;
+        
+        const chord = d3.chord()
+            .padAngle(0.02)
+            .sortSubgroups(d3.descending);
+        
+        const arc = d3.arc()
+            .innerRadius(innerRadius)
+            .outerRadius(outerRadius);
+        
+        const ribbon = d3.ribbon()
+            .radius(innerRadius);
+        
+        const svg = d3.select("#chord")
+            .attr("viewBox", `0 0 ${width} ${height}`);
+        
+        const g = svg.append("g")
+            .attr("transform", `translate(${width / 2},${height / 2})`);
+        
+        const chords = chord(matrix);
+        
+        const tooltip = d3.select("#tooltip");
+        
+        // Add groups
+        const group = g.append("g")
+            .selectAll("g")
+            .data(chords.groups)
+            .join("g")
+            .attr("class", "chord-group");
+        
+        group.append("path")
+            .attr("class", "group-arc")
+            .style("fill", d => nodeColors[allNodes[d.index]])
+            .style("stroke", d => d3.rgb(nodeColors[allNodes[d.index]]).darker())
+            .attr("d", arc)
+            .on("mouseover", function(event, d) {
+                // Fade all chords not connected to this group
+                d3.selectAll(".chord")
+                    .classed("fade", p => p.source.index !== d.index && p.target.index !== d.index);
+                
+                const node = allNodes[d.index];
+                const category = nodeToCategory[node];
+                const connectionCount = connections[node] ? connections[node].length : 0;
+                
+                tooltip.style("opacity", 1)
+                    .style("left", (event.pageX + 10) + "px")
+                    .style("top", (event.pageY - 10) + "px")
+                    .html(`<strong>${node}</strong><br>
+                           Category: ${category}<br>
+                           Connections: ${connectionCount}<br>
+                           Total flow: ${d.value}`);
+            })
+            .on("mouseout", function() {
+                d3.selectAll(".chord").classed("fade", false);
+                tooltip.style("opacity", 0);
+            });
+        
+        // Add labels
+        group.append("text")
+            .each(d => { d.angle = (d.startAngle + d.endAngle) / 2; })
+            .attr("dy", ".35em")
+            .attr("transform", d => `
+                rotate(${(d.angle * 180 / Math.PI - 90)})
+                translate(${outerRadius + 10})
+                ${d.angle > Math.PI ? "rotate(180)" : ""}
+            `)
+            .style("text-anchor", d => d.angle > Math.PI ? "end" : null)
+            .text(d => allNodes[d.index])
+            .attr("class", d => {
+                // Check if this is a category name
+                return Object.keys(categories).includes(nodeToCategory[allNodes[d.index]]) ? "category-label" : "";
+            });
+        
+        // Add ribbons
+        const ribbons = g.append("g")
+            .attr("fill-opacity", 0.5)
+            .selectAll("path")
+            .data(chords)
+            .join("path")
+            .attr("class", "chord")
+            .attr("d", ribbon)
+            .style("fill", d => nodeColors[allNodes[d.source.index]])
+            .style("stroke", d => d3.rgb(nodeColors[allNodes[d.source.index]]).darker(0.5))
+            .on("mouseover", function(event, d) {
+                const source = allNodes[d.source.index];
+                const target = allNodes[d.target.index];
+                
+                tooltip.style("opacity", 1)
+                    .style("left", (event.pageX + 10) + "px")
+                    .style("top", (event.pageY - 10) + "px")
+                    .html(`<strong>${source} ↔ ${target}</strong><br>
+                           Connection strength: ${d.source.value}<br>
+                           ${nodeToCategory[source]} ↔ ${nodeToCategory[target]}`);
+            })
+            .on("mouseout", function() {
+                tooltip.style("opacity", 0);
+            });
+        
+        // Add category legend arcs
+        const categoryArcs = [];
+        let currentAngle = 0;
+        
+        Object.entries(categories).forEach(([catName, catData]) => {
+            const startIndex = allNodes.findIndex(node => nodeToCategory[node] === catName);
+            const endIndex = allNodes.findLastIndex(node => nodeToCategory[node] === catName);
+            
+            if (startIndex !== -1 && endIndex !== -1) {
+                const startAngle = chords.groups[startIndex].startAngle;
+                const endAngle = chords.groups[endIndex].endAngle;
+                
+                categoryArcs.push({
+                    name: catName,
+                    color: catData.color,
+                    startAngle: startAngle,
+                    endAngle: endAngle
+                });
+            }
+        });
+        
+        // Draw category arcs
+        const categoryArc = d3.arc()
+            .innerRadius(outerRadius + 40)
+            .outerRadius(outerRadius + 45);
+        
+        g.append("g")
+            .selectAll("path")
+            .data(categoryArcs)
+            .join("path")
+            .attr("d", categoryArc)
+            .style("fill", d => d.color)
+            .style("opacity", 0.7);
+        
+        // Add category labels
+        g.append("g")
+            .selectAll("text")
+            .data(categoryArcs)
+            .join("text")
+            .attr("class", "category-arc-label")
+            .attr("transform", d => {
+                // Calculate the middle angle of the arc
+                const angle = (d.startAngle + d.endAngle) / 2;
+                // Position text further out from the colored arc
+                const radius = outerRadius + 65;
+                const x = Math.sin(angle) * radius;
+                const y = -Math.cos(angle) * radius;
+                // Rotate text to follow the circle, but flip if on bottom half
+                const rotation = angle * 180 / Math.PI - 90;
+                const finalRotation = angle > Math.PI ? rotation + 180 : rotation;
+                return `translate(${x},${y}) rotate(${finalRotation})`;
+            })
+            .style("text-anchor", "middle")
+            .text(d => d.name);
+    </script>
+</body>
+</html>

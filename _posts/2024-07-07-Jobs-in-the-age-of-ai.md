@@ -26,14 +26,14 @@ A job is <a href="https://dictionary.cambridge.org/dictionary/english/job" class
 ![Reasons why humans work](/assets/images/reasons.png){: .magnifiable}
 
 
-<p class="nevermind"> Some reasons matter more than others, but overall to make ends meet, secure our future, be a part of something and many other reasons loosely related to Maslow's hierarchy of needs.<br> These reasons represent the System Level which then extends to the Execution Level (Job) and the Method Level(Tasks). These map to the Why, the What and the How.</p>
+<p class="nevermind"> Some reasons matter more than others, but overall to make ends meet, secure our future, be a part of something and many others loosely related to Maslow's hierarchy of needs.<br> These reasons represent the System Level which then extends to the Execution Level (Job) and the Method Level(Tasks). These map to the Why, the What and the How.</p>
 
 <img src="{{ '/assets/images/Dissection.svg' | relative_url }}">
 
 <h4 class="section-header">Does Work Stop?</h4>
 
 
-<p><a href="https://www.cnbc.com/2019/06/25/author-studies-self-made-billionaires-on-9-things-that-motivate-ultra-rich-to-succeed.html" class="blue" target="_blank"> From post dotcom billionaires interviews</a> to pre-iPhone studies, there is plenty to substantiate the claim that people work, and continue to work long hours when they don't need to.</p>
+<p><a href="https://www.cnbc.com/2019/06/25/author-studies-self-made-billionaires-on-9-things-that-motivate-ultra-rich-to-succeed.html" class="blue" target="_blank"> From post dotcom billionaires interviews</a> to pre-iPhone studies, there is plenty to substantiate the claim that people work, and continue to work long hours, when they don't need to.</p>
 
 
 <div style="border: 1px solid #eaeaea; border-radius: 0; padding: 20px; margin: 30px 0; background-color: #fcfcfc; font-family: 'Poppins', sans-serif;">
@@ -92,7 +92,7 @@ A job is <a href="https://dictionary.cambridge.org/dictionary/english/job" class
 
 
 <p class="Nevermind"> We believe Generative AI is an equalizer and will create more artists.<br>Yes, there will be more noise to sift through but AI is a net positive for Human Energy and Agency. We see this initial wave as an opportunity to improve on the status quo by understanding the architecture of Human Energy. Instead of re-skilling, we have an opportunity to optimize human energy allocation by helping people discover and refine latent potential, find ideal roles, collaborate with complementary archetypes, infuse innovation into stagnant cultures and much, much more. </p>
-<p> We anticipate a rise in entrepreneurship and sole ventures as AI enables those with vision, perseverance and fortitude. We expect traditional employment to oscillate from single and static, to fractional and fluid. This paradigm, which will spawn many new methodologies, will likely be very different from gig work in that it'll be based on individual contributor strengths rather than interchangeable contributor abilities.</p> 
+<p> We anticipate a rise in entrepreneurship and solo ventures as AI enables those with vision, perseverance and fortitude to forge ahead. We expect traditional employment to oscillate from single and static, to fractional and fluid. This paradigm, which will spawn many new methodologies, will likely be very different from gig work in that it'll be based on individual contributor strengths rather than interchangeable contributor abilities.</p> 
 
 
 

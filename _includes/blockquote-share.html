@@ -37,8 +37,8 @@ document.addEventListener('DOMContentLoaded', function() {
       if (this.classList.contains('twitter')) {
         window.open(`https://twitter.com/intent/tweet?text="${encodeURIComponent(quoteText)}"&url=${encodeURIComponent(pageUrl)}`, '_blank');
       } else if (this.classList.contains('linkedin')) {
-        window.open(`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(pageUrl)}`, '_blank');
-      } else if (this.classList.contains('copy')) {
+const linkedInText = `"${quoteText}"\n\nFrom: ${pageTitle}\n${pageUrl}`;
+window.open(`https://www.linkedin.com/feed/?shareActive=true&text=${encodeURIComponent(linkedInText)}`, '_blank');      } else if (this.classList.contains('copy')) {
         navigator.clipboard.writeText(`"${quoteText}" — from ${pageTitle} ${pageUrl}`).then(() => {
           // Show copied notification
           const notification = document.createElement('div');

@@ -12,7 +12,7 @@ Much has been said about AI displacing jobs, much continues to be said.
 
 <p>Any discussion of this magnitude should be framed and focused.<br>Technology is a tool, sometimes borne of necessity, but mostly of the human capacity to imagine which puts more within human reach. It has the power to uplift or tear down, to build or destroy.</p>
 AI is a powerful tool differentiated in its distribution and unprecedented accessibility.
-A job is the regular work that a person does to earn money.</u></a>
+A job is the regular work that a person does to earn money.
 
 <p class="font-nevermind">A historical analysis will tell you technology displaces jobs but creates many more as it runs its arc. It spawns entire new industries, some adjacent and some divergent. A machine can work cheaper, better, faster and longer than you can, about this there should be no debate, but this does not mean we teleport to <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1488457/full" class="blue" target="_blank">Universal Basic Income</a> because everyone will be out of work.</p>
 

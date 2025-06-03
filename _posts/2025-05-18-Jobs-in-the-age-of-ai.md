@@ -93,7 +93,7 @@ A job is the regular work that a person does to earn money.
 <span class="list-header">Governments:</span>
 <ul class="custom-bullets">
   <li>Tax exemptions for new small businesses, artists and creators</li>
-  <li>Grants for developments of public goods without bureaucratic approval mechanisms</li>
+  <li>Grants for development of public goods without bureaucratic approval mechanisms</li>
   <li>Create a network of Distributed Vocational Training Centers in partnership with local communities, offering free or subsidized re-skilling.</li>
   <li>Provide spaces, funding and promotion for private, local training and development.</li>
   <li>Participate as a stakeholder to support incubators</li>
@@ -112,7 +112,7 @@ A job is the regular work that a person does to earn money.
 
 <span class="list-header">Communities:</span>
 
-  <p class="font-nevermind">With government infrastructure and support, Communities can provide access to knowledge, spaces, opportunities, mentors and training thereby acting as aggregation, amplification and distribution hubs to connect and scale energy. <br>Local artists, practitioners, executives, technologists and entrepreneurs can share their knowledge and experience - via contribution to knowledge platforms, trainings, skill-sharing events, maker spaces, internships and apprenticeships - to bring people into the fold. Similarly, local marketplaces can facilitate commerce, aggregating both demand and supply.</p>
+  <p class="font-nevermind">With government infrastructure and support, Communities can provide access to knowledge, spaces, opportunities, mentors and training thereby acting as aggregation, amplification and distribution hubs to connect and scale energy. <br>Local artists, practitioners, executives, technologists and entrepreneurs can share knowledge and experience - via contribution to knowledge platforms, trainings, skill-sharing events, maker spaces, internships and apprenticeships - to bring people into the fold. Similarly, local marketplaces can facilitate commerce, aggregating both demand and supply.</p>
 
 
 <span class="list-header">Individuals</span>

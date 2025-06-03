@@ -112,14 +112,14 @@ A job is the regular work that a person does to earn money.
 
 <span class="list-header">Communities:</span>
 
-  <p class="font-nevermind">With government infrastructure and support, Communities can provide access to knowledge, spaces, opportunities, mentors and training thereby acting as aggregation, amplification and distribution hubs to connect and scale energy. <br>Local artists, practitioners, executives, technologists and entrepreneurs can share knowledge and experience - via contribution to knowledge platforms, trainings, skill-sharing events, maker spaces, internships and apprenticeships - to bring people into the fold. Similarly, local marketplaces can facilitate commerce, aggregating both demand and supply.</p>
+  <p class="font-nevermind">With government infrastructure and support, Communities can provide access to knowledge, spaces, opportunities, and training thereby acting as aggregation, amplification and distribution hubs to connect and scale energy. <br>Mentors can provide crucial guidance. Local artists, practitioners, executives, technologists and entrepreneurs can share their knowledge and experience - via contributions to online platforms, trainings, skill-sharing events, maker spaces, internships and apprenticeships - to bring people into the fold. Similarly, local marketplaces can facilitate commerce, aggregating both demand and supply.</p>
 
 
 <span class="list-header">Individuals</span>
 <ul class="custom-bullets">
 <li>Start with assessments to identify latent potential and natural interests. </li>
 <li>Share/absorb knowledge and experience from local workshops, online platforms, or apprenticeships, as mentors or learners. This creates a pay-it-forward cycle that expands the talent pool.</li>
-<li>Experiment with fractional or project-based work (self-employment) to diversify skills, develop a builders mindset and gain experiential knowledge.</li>
+<li>Experiment with fractional or project-based work (self-employment) to diversify skills, develop a builder's mindset and gain experiential knowledge.</li>
 <li>Pursue 100-hour specialization sprints with industry practitioners.</li>
 <li>Advocate for workplace policies that support continuous learning and internal mobility.</li>
 </ul>

@@ -9,6 +9,12 @@ image: assets/images/atomic.jpg
 
 
 
+
+
+From Credentialism to Creativity-Led Hiring
+
+Potential > Credentials
+
 <style>
 .full-width-viz {
   width: 100vw;

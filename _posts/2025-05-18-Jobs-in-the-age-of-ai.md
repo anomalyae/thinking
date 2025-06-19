@@ -10,7 +10,7 @@ image: assets/images/jobs-ai.jpg
 
 Much has been said about AI displacing jobs, much continues to be said.
 
-<p>Any discussion of this magnitude should be framed and focused.<br>Technology is a tool, sometimes borne of necessity, but mostly of the human capacity to imagine which puts more within human reach. It has the power to uplift or tear down, to build or destroy.</p>
+<p>Any discussion of this magnitude should be framed and focused.<br>Technology is a tool, sometimes borne of necessity but mostly of the human capacity to imagine, which puts more within human reach. It has the power to uplift or tear down, to build or destroy.</p>
 AI is a powerful tool differentiated in its distribution and unprecedented accessibility.
 A job is the regular work that a person does to earn money.
 
@@ -126,17 +126,9 @@ A job is the regular work that a person does to earn money.
 
 <p class="font-nevermind">This approach transforms potentially fragmented initiatives into a cohesive ecosystem: Governments reduce systemic friction and provide foundational infrastructure. Corporations offer scaling mechanisms and market signals. Individuals drive their own transformations and contribute knowledge. Communities localize and amplify impact by connecting resources to needs. Rather than a death knell for isolated individuals, this transition can be an opportunity at reinvention, infusing innovation into a movement that unifies communities.</p>
 
-
-
 <h5 class="section-header">Anomaly’s Stance: Human Energy Architecture</h5>
-
 
 <p class="font-nevermind"> We believe Generative AI is an equalizer and will create more artists.<br>Yes, there will be more noise to sift through but AI is a net positive for Human Energy and Agency. We see this initial wave as an opportunity to improve on the status quo by understanding the architecture of <a href="http://www.thinking.anomaly.ae/human-energy" class="blue" target="_blank">Human Energy</a>, our thesis and framework for optimizing energy and increasing Human Agency. Instead of just re-skilling in the AI-era, we have the opportunity to optimize human energy allocation by helping people <a href="http://www.humanenergy.ai" class="blue" target="_blank">discover and refine latent potential, find ideal roles, collaborate with complementary archetypes, infuse innovation into stagnant cultures</a> and much, much more. </p>
 <p> We anticipate a rise in entrepreneurship and solo ventures as AI enables those with vision, perseverance and fortitude to forge ahead. We expect traditional employment to oscillate from single and static, to fractional and fluid. This paradigm will likely be very different from gig work in that it'll be based on individual contributor strengths rather than interchangeable contributor abilities.</p> We expect the future to spawn many new employee-centric methodologies and ecosystems as we navigate to a world where people’s unique energies find expression in work that matters to them.
-
-
-
-
-
 
 

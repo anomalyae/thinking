@@ -155,7 +155,7 @@ image: assets/images/thoughtcompute.jpg
 	<li>Visual Separation of Domains: The split-screen separates human thought from machine computation while maintaining connection between the two; a link which enables collaboration and continuity.</li>
 	<li>Version Spine: A visual map to navigate and depict the evolution of ideas, this serves a functional time machine by managing the iterative nature of writing and thought development.</li>
 	<li>Floating Capture Window: Persistent note-taking interface for capturing fleeting thoughts while browsing, researching, or working away from the main writing interface</li>
-	<li>AI as Editor, Not Author: The compute window serves as a sophisticated editorial partner—analyzing structure, proofreading text, suggesting stylistic improvements, and refining tone—rather than generating original content. This distinction positions AI as a precision tool that improves human ability and productivity.</li>
+	<li>AI as Editor: The compute window serves as an editorial partner, evaluating writing, proofreading text, and refining tone. Removing the ability to instruct the model means AI can only contribute to your ideas, not assume control. This positions AI as a guiding tool that improves human output, rather than a computer that replaces human thought.</li>
 </ul>
 <p class="font-nevermind">LLMs are perfidious teachers, but make for instructors par excellence. <br>Devoid of genuine artistry, they can nonetheless provide personalized insights and facilitate deepening the execution of our own unique creative signatures.</p>
 

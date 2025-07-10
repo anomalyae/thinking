@@ -5,6 +5,8 @@ author: Anomaly
 categories: [ Thesis ]
 tags: [ Human-Energy, Framework ]
 image: assets/images/atomic.jpg
+published: false
+
 ---
 
 

@@ -118,6 +118,7 @@ A job is the regular work that a person does to earn money.
 <span class="list-header">Individuals</span>
 <ul class="custom-bullets">
 <li>Start with assessments to identify latent potential and natural interests. </li>
+<li>Understand burnout and motivation through the lens of emotions, beliefs and experience</li>
 <li>Share/absorb knowledge and experience from local workshops, online platforms, or apprenticeships, as mentors or learners. This creates a pay-it-forward cycle that expands the talent pool.</li>
 <li>Experiment with fractional or project-based work (self-employment) to diversify skills, develop a builder's mindset and gain experiential knowledge.</li>
 <li>Pursue 100-hour specialization sprints with industry practitioners.</li>

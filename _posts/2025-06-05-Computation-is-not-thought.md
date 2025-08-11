@@ -145,9 +145,10 @@ image: assets/images/thoughtcompute.jpg
 
 <p class="font-nevermind">Introducing Paradox: an AI-augmented writing studio.</p>
 
-<p class="font-nevermind">We believe writing is an art and must be practiced with intentionality.<br> While processes vary, ours starts with a thought, a question or an idea. The development journey requires time - to reflect, research, deliberate and synthesize - evolving through many spirals of refinement. <br>Inspiration, information and insights can come from anywhere at anytime and need to be captured. Removing friction while retaining context and staying in flow provides focus, clarity and momentum which drastically shortens the thinking-to-publishing loop, all while retaining creative control.</p>
+<p class="font-nevermind">We believe writing is an art intricately intertwined with thought, which cannot be supplanted by technology. Some thoughts are only reachable via writing while some writing is only possible after deep thought. A spark, which often starts as a thought, a question or an idea often evolves into something strikingly different, through many spirals of refinement. Inspiration, information and insights can come from anywhere at any time and must be captured and collated.</p>
+<p>The iterative nature of idea development, storytelling, and design requires a tool which accommodates the process, provides assistance and unlocks momentum without compromising creative control.</p>
 
-<p class="font-nevermind">Paradox was created for our own internal use to write, to think, and to write to think.</p>
+<p class="font-nevermind">Paradox is a product we're spinning out from our own internal use. We created it to write, to think, and to write to think.</p>
 
 <p class="font-nevermind">Features:</p>
 <ul class="custom-bullets">
@@ -155,6 +156,7 @@ image: assets/images/thoughtcompute.jpg
 	<li>Visual Separation of Domains: The split-screen separates human thought from machine computation while maintaining connection between the two; a link which enables collaboration and continuity.</li>
 	<li>Version Spine: A visual map to navigate and depict the evolution of ideas, this serves a functional time machine by managing the iterative nature of writing and thought development.</li>
 	<li>Floating Capture Window: Persistent note-taking interface for capturing fleeting thoughts while browsing, researching, or working away from the main writing interface</li>
+	<li>Output Versatility: With native support for PDF's, JSON, Markdown, DOCX, HTML and TXT files, Paradox is a single platform covering most modern writing use cases.</li>
 	<li>AI as Editor: The compute window serves as an editorial partner, evaluating writing, proofreading text, and refining tone. Removing the ability to instruct the model means AI can only contribute to your ideas, not assume control. This positions AI as a guiding tool that improves human output, rather than a computer that replaces human thought.</li>
 </ul>
 <p class="font-nevermind">LLMs are perfidious teachers, but make for instructors par excellence. <br>Devoid of genuine artistry, they can nonetheless provide personalized insights and facilitate deepening the execution of our own unique creative signatures.</p>

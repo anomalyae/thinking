@@ -141,7 +141,7 @@ image: assets/images/thoughtcompute.jpg
 
 <p class="font-nevermind"> Our position prioritizes <a href="#" target="_blank" class="blue"> Human Agency</a> while recognizing that Artifical Intelligence represents a massive opportunity to bridge gaps in society.</p>
 
-<p class="font-nevermind"> Instead of leveraging the technology to amplify our own outputs, the trend to replace thinking is rising, perhaps led by the proliferation of Generative AI tools which prioritise quantity and speed. This leaves a vacuum for tools that prioritise quality and a design space to explore for retaining creative control.</p>
+<p class="font-nevermind"> Instead of leveraging the technology to amplify our own outputs, the trend to replace thinking is rising, perhaps led by the proliferation of Generative AI tools which prioritise quantity and speed. This leaves a vacuum for tools that prioritise quality and a design space to explore for retaining creative control; technology that elevates, rather than erodes human intellect.</p>
 
 <p class="font-nevermind">Introducing Paradox: an AI-augmented writing studio.</p>
 

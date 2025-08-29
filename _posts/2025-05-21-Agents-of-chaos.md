@@ -145,7 +145,7 @@ Our stance is that <i>AI Agents are a post-personalisation paradigm</i>. True Ag
 
 <span class="list-header">Trust:</span> a less abstract representation of which is predictability. Today’s outputs are unreliable, at times undesirable and unpredictable. If an undesirable output is predictable, then the present solution represents design failure or incompetence.
 
-<span class="list-header">Personalisation:</span> Understanding goals, values and context. Generic models cannot serve as effective agents because they lack a persistent contextual understanding, which is a combination of Long-term memory, Deep Contextual Awareness, Adaptive learning.
+<span class="list-header">Personalisation:</span> Understanding goals, values and context. Generic models cannot serve as effective agents because they lack a persistent contextual understanding, which is a combination of long-term memory, deep contextual awareness and adaptive learning, amongst others.
 
 <span class="list-header">Security and Safety:</span> Agent contributions must be structured to be additive, safe and private. Current architecture and prevalent business models are conceptually incompatible with this ethos.
 
@@ -226,11 +226,11 @@ Even in the B2B context, it is a reenactment of the Cloud-based vs on-prem debat
 <p class="font-nevermind">Agents will ideally coexist as collaborators, personalized in understanding, tempered in ability.  For this vision to come to fruition, we must channel our energy towards:</p>
 
 <ul class="custom-bullets">
-<li>Adaptive learning in systems design</li>
-<li>Intent modelling in interface design</li>
+<li>Data security and context engineering</li>
+<li>Memory architecture and methods</li>
 <li>Protocols that transcend privacy limitations</li>
 <li>Architectures that support persistence and emergent capabilities</li>
 </ul>
 
-<p class="font-nevermind">At Anomaly, we believe that <i>personalization is the key unlock for Artificial Intelligence</i> and that this is the fulcrum where the industry will ultimately converge. This belief forms the foundation of our thesis, and it guides our work in Long-term Memory, Context-Aware Models, User-Specific Tuning Methodologies, and Ethical Frameworks, so that when agents do emerge, they enable humans to build a safer, empowered and more equitable future.</p>
-<p class="font-nevermind">AI is broadly available infrastructure. The direction and depth of our collective building efforts will shape future development. It must therefore be ethical, resilient, performant and focus on ingenuity as new paradigms mandate expanding our perspectives to identify, accommodate and address increasing opportunities and vulnerabilities.</p>
+<p class="font-nevermind">At Anomaly, we believe that <i>personalization is the key unlock for Artificial Intelligence</i> and that this is the fulcrum where the industry will ultimately converge. This belief forms the foundation of our thesis, and it guides our work in long-term memory, context-aware models, user-specific tuning methodologies, and ethical frameworks, so that when agents do emerge, they enable humans to build a safer, empowered and more equitable future.</p>
+<p class="font-nevermind">AI is a broadly available infrastructure that is evolving and permeating. Given its magnitude and the role it will play in tomorrow's systems, its application must be ethical, resilient, performant, and focused on ingenuity, as new paradigms mandate expanding our perspectives to identify, accommodate, and address increasing opportunities and vulnerabilities.</p>

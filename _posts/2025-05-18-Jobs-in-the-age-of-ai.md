@@ -75,61 +75,22 @@ A job is the regular work that a person does to earn money.
 
  <p class="font-nevermind"> Now, as a current day thought experiment, let's imagine everyone is economically secure, socially content, adequately credentialed and has an abundance of time. Let's even add Universal Basic Income in the mix. <i>Do humans stop working?</i> Do writers, actors, engineers, bakers, photographers, thinkers, entertainers all call it quits? No, the very notion is absurd.</p>
 
-> We work because we possess creative energy which requires expression and curiosity that demands action; the power to imagine and the desire to pursue that vision's fulfillment. 
+> We work because we possess creative energy which requires expression, and curiosity that demands action; the power to imagine and the desire to pursue that vision's fulfillment. 
 
 <img src="{{ '/assets/images/Energy.svg' | relative_url }}">
 
 
-<p class="font-nevermind">Creative Energy is the fundamental substrate other levels serve to channel and direct. Systems are energy-organizing structures. Through this lens, we can take a simplified look at work as energy being allocated on the spectrum of Creation (more creative energy) and Facilitation (less creative energy). The creation end involves bringing new things into existence - whether that's products, ideas, systems, or experiences. The facilitation end involves enabling, organizing, or optimizing what already exists or what others are creating. Most work contains elements of both, but tends to lean more in one direction contextually.</p>
+<p class="font-nevermind">Creative Energy is the fundamental substrate other levels serve to channel and direct. Systems are energy-organizing structures which channel energy as a conduit to create value. Through this lens, we can take an <i>oversimplified</i> look at work as energy being allocated on the spectrum of Creation (more creative energy) and Facilitation (less creative energy). The creation end involves bringing new things into existence - whether that's products, ideas, plans, systems, or experiences. The facilitation end involves enabling, organizing, implementing or optimizing what already exists or what others are creating. Most work contains elements of both, but tends to lean more in one direction contextually. Some industries, like medical, legal and finance, tend to have a healthy mix of both.</p>
 
  <p class="font-nevermind">Facilitation i.e. low creative energy work - organizing existing information, following established processes, coordinating routine tasks - maps well onto what current AI systems do effectively. These are <a href='https://thinking.anomaly.ae/Agents-of-chaos/' class="blue" target="_blank"> scoped areas</a> where the "intelligence" required is more about pattern recognition, rule-following, and optimization within defined parameters.</p>
 
 <p class="font-nevermind">This is a long-winded way to say that AI will not displace jobs, rather displace stagnated energy. A suboptimal job is essentially inefficient energy allocation; human creative capacity trapped in work that doesn't warrant it. Displacement in these cases is liberating, not destructive. It forces the energy to find better outlets. The internet gave users distribution thereby liberating siloed information, Gen AI is now bringing sophisticated creative capabilities within reach. This will likely spark many new creative projects and expand the creative class as an aggregate percentage of new enterprises/system-level organizing structures.</p>
 
 
-<h5 class="section-header">The Turbulent Transition: A Collaborative Opportunity</h5>
-<p class="font-nevermind"> Distributed, pragmatic efforts can mitigate the short-term impact of displacement. Coordinated actions between interdependent stakeholders can result in a cohesive, amplifying framework where efforts reinforce one another. A condensed overview:</p>
-
-<span class="list-header">Governments:</span>
-<ul class="custom-bullets">
-  <li>Tax exemptions for new small businesses, artists and creators</li>
-  <li>Grants for development of public goods without bureaucratic approval mechanisms</li>
-  <li>Create a network of Distributed Vocational Training Centers in partnership with local communities, offering free or subsidized re-skilling.</li>
-  <li>Provide spaces, funding and promotion for private, local training and development.</li>
-  <li>Participate as a stakeholder to support incubators</li>
-</ul>
-
-<p class="font-nevermind">To inculcate revised valuation frameworks, revisit credentialing standards, initiate regional knowledge transfer agreements, develop denser and more versatile public-private initiatives and expand universal basic infrastructure (free co-working spaces, internet access etc).</p>
-
-<span class="list-header">Corporations</span>
-<ul class="custom-bullets">
-  <li>Fund, individually and collaboratively, external and internal platforms for re-skilling (e.g., online learning marketplaces with personalized pathways)</li>
-  <li>Invest in Human Energy Reorganization initiatives using assessments to audit and map employee aptitudes to emerging roles and funding innovation sprints where cross-functional teams tackle new challenges.</li>
-  <li>Develop new mechanisms to surface, promote and reward qualitatively superior content amongst increased low-signal noise.</li>
-  <li>Commit to fixed-percentage hiring from re-skilling pipelines (e.g., 20% of new roles filled by graduates of vocational programs)</li>
-  <li> Collaboratively publish real-time industry skill demand forecasts to guide training programs.</li>
-</ul>
-
-<span class="list-header">Communities:</span>
-
-  <p class="font-nevermind">With government infrastructure and support, Communities can provide access to knowledge, spaces, opportunities, and training thereby acting as aggregation, amplification and distribution hubs to connect and scale energy. <br>Mentors can provide crucial guidance. Local artists, practitioners, executives, technologists and entrepreneurs can share their knowledge and experience - via contributions to online platforms, trainings, skill-sharing events, maker spaces, internships and apprenticeships - to bring people into the fold. Similarly, local marketplaces can facilitate commerce, aggregating both demand and supply.</p>
-
-
-<span class="list-header">Individuals</span>
-<ul class="custom-bullets">
-<li>Start with assessments to identify latent potential and natural interests. </li>
-<li>Understand burnout and motivation through the lens of emotions, beliefs and experience</li>
-<li>Share/absorb knowledge and experience from local workshops, online platforms, or apprenticeships, as mentors or learners. This creates a pay-it-forward cycle that expands the talent pool.</li>
-<li>Experiment with fractional or project-based work (self-employment) to diversify skills, develop a builder's mindset and gain experiential knowledge.</li>
-<li>Pursue 100-hour specialization sprints with industry practitioners.</li>
-<li>Advocate for workplace policies that support continuous learning and internal mobility.</li>
-</ul>
-
-<p class="font-nevermind">This approach transforms potentially fragmented initiatives into a cohesive ecosystem: Governments reduce systemic friction and provide foundational infrastructure. Corporations offer scaling mechanisms and market signals. Individuals drive their own transformations and contribute knowledge. Communities localize and amplify impact by connecting resources to needs. Rather than a death knell for isolated individuals, this transition can be an opportunity at reinvention, infusing innovation into a movement that unifies communities.</p>
 
 <h5 class="section-header">Anomaly’s Stance: Human Energy Architecture</h5>
 
 <p class="font-nevermind"> We believe Generative AI is an equalizer and will create more artists.<br>Yes, there will be more noise to sift through but AI is a net positive for Human Energy and Agency. We see this initial wave as an opportunity to improve on the status quo by understanding the architecture of <a href="http://www.thinking.anomaly.ae/human-energy" class="blue" target="_blank">Human Energy</a>, our thesis and framework for optimizing energy and increasing Human Agency. Instead of just re-skilling in the AI-era, we have the opportunity to optimize human energy allocation by helping people <a href="http://www.humanenergy.ai" class="blue" target="_blank">discover and refine latent potential, find ideal roles, collaborate with complementary archetypes, infuse innovation into stagnant cultures</a> and much, much more. </p>
-<p> We anticipate a rise in entrepreneurship and solo ventures as AI enables those with vision, perseverance and fortitude to forge ahead. We expect traditional employment to oscillate from single and static, to fractional and fluid. This paradigm will likely be very different from gig work in that it'll be based on individual contributor strengths rather than interchangeable contributor abilities.</p> We expect the future to spawn many new employee-centric methodologies and ecosystems as we navigate to a world where people’s unique energies find expression in work that matters to them.
+<p> We anticipate a rise in entrepreneurship and solo ventures as AI enables those with vision, perseverance and fortitude to forge ahead. We also expect some traditional employment to oscillate from single and static, to fractional and fluid. This paradigm will likely be very different from gig work in that it'll be based on individual contributor strengths rather than interchangeable contributor abilities.</p> We expect the future to spawn many new employee-centric methodologies and ecosystems as we navigate to a world where people’s unique energies find expression in work that matters to them.
 
 

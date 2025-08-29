@@ -152,7 +152,7 @@ image: assets/images/thoughtcompute.jpg
 
 <p class="font-nevermind">Features:</p>
 <ul class="custom-bullets">
-	<li>Preserves Cognitive Sovereignty: By removing direct conversation with the AI, users are forced to articulate their thoughts first.</li>
+	<li>Preserves Cognitive Sovereignty: By removing direct conversation with the AI model, users are forced to articulate their thoughts first.</li>
 	<li>Visual Separation of Domains: The split-screen separates human thought from machine computation while maintaining connection between the two; a link which enables collaboration and continuity.</li>
 	<li>Version Spine: A visual map to navigate and depict the evolution of ideas, this serves a functional time machine by managing the iterative nature of writing and thought development.</li>
 	<li>Floating Capture Window: Persistent note-taking interface for capturing fleeting thoughts while browsing, researching, or working away from the main writing interface</li>

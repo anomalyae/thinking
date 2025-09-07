@@ -141,25 +141,26 @@ image: assets/images/thoughtcompute.jpg
 
 <p class="font-nevermind"> Our position prioritizes <a href="#" target="_blank" class="blue"> Human Agency</a> while recognizing that Artifical Intelligence represents a massive opportunity to bridge gaps in society.</p>
 
-<p class="font-nevermind"> Instead of leveraging the technology to amplify our own outputs, the trend to replace thinking is rising, perhaps led by the proliferation of Generative AI tools which prioritise quantity and speed. This leaves a vacuum for tools that prioritise quality and a design space to explore for retaining creative control; technology that elevates, rather than erodes human intellect.</p>
+<p class="font-nevermind"> Instead of leveraging the technology to amplify our own outputs, the trend to replace thinking is rising, perhaps led by the proliferation of Generative AI tools which prioritise quantity and speed. This leaves a vacuum for tools that prioritise quality, and a design space to explore for retaining creative control; technology that elevates, rather than erodes human intellect.</p>
 
-<p class="font-nevermind">Introducing Paradox: an AI-augmented writing studio.</p>
+<p class="font-nevermind">Introducing Paradox: an AI-assisted writing studio.</p>
 
-<p class="font-nevermind">We believe writing is an art intricately intertwined with thought, which cannot be supplanted by technology. Some thoughts are only reachable via writing while some writing is only possible after deep thought. A spark, which often starts as a thought, a question or an idea often evolves into something strikingly different, through many spirals of refinement. Inspiration, information and insights can come from anywhere at any time and must be captured and collated.</p>
+<p class="font-nevermind">We believe writing is an art intricately intertwined with thought, which cannot be supplanted by technology. Some thoughts are only reachable via writing while some writing is only possible after deep thought. A spark, which often starts as a thought, a question or an idea often evolves into something strikingly different, through many spirals of refinement.</p>
+<p>Inspiration, information and insights continue to originate from surprising sources and require timely capture,  integration and collation with human thought.</p>
 <p>The iterative nature of idea development, storytelling, and design requires a tool which accommodates the process, provides assistance and unlocks momentum without compromising creative control.</p>
 
-<p class="font-nevermind">Paradox is a product we're spinning out from our own internal use. We created it to write, to think, and to write to think.</p>
+<p class="font-nevermind">We built Paradox - a product we're spinning out from our own internal use - to do all this and more. We created it to write, to think, and to write to think.</p>
 
 <p class="font-nevermind">Features:</p>
 <ul class="custom-bullets">
 	<li>Preserves Cognitive Sovereignty: By removing direct conversation with the AI model, users are forced to articulate their thoughts first.</li>
 	<li>Visual Separation of Domains: The split-screen separates human thought from machine computation while maintaining connection between the two; a link which enables collaboration and continuity.</li>
-	<li>Version Spine: A visual map to navigate and depict the evolution of ideas, this serves a functional time machine by managing the iterative nature of writing and thought development.</li>
-	<li>Floating Capture Window: Persistent note-taking interface for capturing fleeting thoughts while browsing, researching, or working away from the main writing interface</li>
-	<li>Output Versatility: With native support for PDF's, JSON, Markdown, DOCX, HTML and TXT files, Paradox is a single platform covering most modern writing use cases.</li>
-	<li>AI as Editor: The compute window serves as an editorial partner, evaluating writing, proofreading text, and refining tone. Removing the ability to instruct the model means AI can only contribute to your ideas, not assume control. This positions AI as a guiding tool that improves human output, rather than a computer that replaces human thought.</li>
+	<li>Version Spine for Drafts: A visual map to navigate and manage the evolution of ideas, this serves a functional time machine by technologizing the iterative nature of writing and thought development.</li>
+	<li>Floating Capture Window: Persistent dictation-enabled, note-taking interface for capturing fleeting thoughts while browsing, researching, or working away from the main writing interface</li>
+	<li>Multi-export: With native support for PDF's, JSON, Markdown, DOCX, HTML and TXT files, Paradox is a single platform covering most modern writing use cases.</li>
+	<li>AI as Editor: The compute window serves as an editorial partner, evaluating writing, proofreading text, suggesting additional content and refining tone. Removing the ability to instruct the model means AI can only contribute to your ideas, not assume control. This positions AI as a guiding tool that improves human output, rather than a computer that replaces human thought.</li>
 </ul>
-<p class="font-nevermind">LLMs are perfidious teachers, but make for instructors par excellence. <br>Devoid of genuine artistry, they can nonetheless provide personalized insights and facilitate deepening the execution of our own unique creative signatures.</p>
+<p class="font-nevermind">LLMs are perfidious teachers, but make for instructors par excellence. <br>Devoid of genuine artistry, they can nonetheless improve productivity and speed, provide personalized insights and facilitate deepening the execution of our own unique creative signatures.</p>
 
 
 

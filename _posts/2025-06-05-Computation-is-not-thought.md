@@ -1,12 +1,18 @@
 ---
-layout: post
-title:  "Computation Is Not Thought"
-author: Anomaly
-categories: [ Thesis ]
-tags: [ Ethical-Infrastructure, Framework]
-image: assets/images/thoughtcompute.jpg
----
 
+layout: post
+
+title: "Computation Is Not Thought"
+
+author: Anomaly
+
+categories: [ Thesis ]
+
+tags: [ Ethical-Infrastructure, Framework]
+
+image: assets/images/thoughtcompute.jpg
+
+---
 
 <article>
 
@@ -22,7 +28,7 @@ image: assets/images/thoughtcompute.jpg
 
 <p class="font-nevermind">For example, a high percentage of children today would likely meet the threshold for addiction when it comes to digital dependency, and how it shapes priorities, decisions, actions and behaviour, yet strategies to counter it are sparse. This likely stems from the iPhone's twenty-year dominance as an unregulated cognitive extension. Adults today intuitively understand limits and restrictions because our existence predates the iPhone, but younger generations have been affected to a greater extent.</p>
 
-<p class="font-nevermind">We potentially face a similar problem with LLM's. When technology that <em>computes</em> is used as a substitute for <em>thinking</em>, it has several detrimental effects:</p>
+<p class="font-nevermind">We potentially face a similar problem with LLMs. When technology that <em>computes</em> is used as a substitute for <em>thinking</em>, it has several detrimental effects:</p>
 
 <ul class="custom-bullets">
 
@@ -38,7 +44,7 @@ image: assets/images/thoughtcompute.jpg
 
 </ul>
 
-<p class="font-nevermind"> In the world before cell phones, people remembered dozens of phone numbers with ease. That 'skill' and all that it enabled has silently been lost to time. Similarly, the effort we are willing to make has changed with the abundance of instantaneous information. This has a halo effect on individual behaviour; if we can't find something, we settle for an alternative almost immediately. Copy/paste has carved out grey matter from our collective cognition. As the following article from 2019 alluded to, our thinking may be inversely related to our ability to compute.</p>
+<p class="font-nevermind">In the world before cell phones, people remembered dozens of phone numbers with ease. That 'skill' and all that it enabled has silently been lost to time. Similarly, the effort we are willing to make has changed with the abundance of instantaneous information. This has a halo effect on individual behaviour; if we can't find something, we settle for an alternative almost immediately. Copy/paste has carved out grey matter from our collective cognition. As the following article from 2019 alluded to, our thinking may be inversely related to our ability to compute.</p>
 
 <div style="border: 1px solid #eaeaea; border-radius: 0; padding: 20px; margin: 30px 0; background-color: #fcfcfc; font-family: 'Poppins', sans-serif;">
 
@@ -256,7 +262,7 @@ Read more
 
 <p class="font-nevermind">LLMs have no qualia and can only interpolate within the conceptual space they've already seen. This means their 'creativity' is more accurately defined as <em>innovation within fixed bounds and rules</em>.</p>
 
-<p class="font-nevermind"> If we conflate computing and thinking, we might erroneously lean on computational solutions for problems that require abstract thinking that only humans are capable of. Or, we might undervalue human cognitive contributions that can't be replicated computationally, which has an extraordinarily high opportunity cost.</p>
+<p class="font-nevermind">If we conflate computing and thinking, we might erroneously lean on computational solutions for problems that require abstract thinking that only humans are capable of. Or, we might undervalue human cognitive contributions that can't be replicated computationally, which has an extraordinarily high opportunity cost.</p>
 
 <h5 class="section-header">Anomaly’s Stance: Artistic Intuition Over Programmed Logic</h5>
 
@@ -295,6 +301,8 @@ Read more
 <p class="font-nevermind">LLMs are perfidious teachers, but make for instructors par excellence. <br>Devoid of genuine artistry, they can nonetheless improve productivity and speed, provide personalized insights, and facilitate deepening the execution of our own unique creative signatures.</p>
 
 </div>
+
 </section>
+
 </article>
 

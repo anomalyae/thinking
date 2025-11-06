@@ -26,6 +26,7 @@
                 {% endif %}
             </h2>
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
+            <div class="reading-time">{{ post.content | number_of_words | divided_by: 180 | plus: 1 }} min read</div>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
@@ -38,7 +39,7 @@
                 {% endif %}
                 </span>
                 <span class="author-meta">
-                <span class="post-name font-weight-bold">{{ author.display_name }}</span> 
+                <span class="post-name font-weight-bold">{{ author.display_name }}</span>
                 {% endif %} -->
                 <span class="post-date">{{ post.date | date_to_string }}</span>
                 </span>

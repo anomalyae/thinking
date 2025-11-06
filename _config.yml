@@ -6,7 +6,9 @@ logo: 'assets/images/glitch.png'
 favicon: 'assets/images/glitch.png'
 url: "https://thinking.anomaly.ae"
 baseurl: ""
-google_analytics: 'UA-xxxxxxxx-1'
+# Analytics
+# google_analytics: '' # Not using GA
+mixpanel_token: '4bf983e3bdd2697d020a29c56a2d913b'
 include: ["_pages"]
 permalink: /:title/
 email: development@anomaly.ae

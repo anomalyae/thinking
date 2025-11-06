@@ -7,14 +7,21 @@ post_class: post-template
 <div class="entry-header">
     <!-- Post Title -->
     <h1 class="posttitle">{{ page.title }}</h1>
-    
+
+    <!-- Post Meta -->
+    <div class="post-meta mb-3" style="color: #616161; font-size: 14px; font-family: 'Poppins', sans-serif;">
+        <span>{{ page.date | date_to_string }}</span>
+        <span class="mx-2">•</span>
+        <span>{{ page.content | number_of_words | divided_by: 180 | plus: 1 }} min read</span>
+    </div>
+
     <!-- Blockchain Verification Byline -->
     {% if page.blockchain or page.transaction_hash %}
     <div class="blockchain-verification mt-2 mb-3">
         <span class="eth-timestamp">
             Timestamped & Verified on {% if page.blockchain %}{{ page.blockchain }}{% else %}Ethereum/Arbitrum{% endif %}
             {% if page.transaction_hash %}
-            <a href="{% if page.blockchain == 'Arbitrum' %}https://arbiscan.io/tx/{% else %}https://etherscan.io/tx/{% endif %}{{ page.transaction_hash }}" 
+            <a href="{% if page.blockchain == 'Arbitrum' %}https://arbiscan.io/tx/{% else %}https://etherscan.io/tx/{% endif %}{{ page.transaction_hash }}"
                target="_blank" title="View verification on blockchain">
                 <i class="fas fa-link"></i>
             </a>

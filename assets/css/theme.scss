@@ -134,9 +134,61 @@ h2 {
 .site-content {
     padding-top:50px;
 }
+
+// Site Header
+.site-header {
+    text-align: center;
+    margin-bottom: 50px;
+
+    .navbar-brand {
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+
+    .header-text {
+        margin-top: 0;
+    }
+
+    .site-title {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 200;
+        font-size: 48px;
+        line-height: 1.1;
+        color: #BCA060;
+        margin: 0 0 15px 0;
+        letter-spacing: -0.5px;
+
+        @include media-breakpoint-up(md) {
+            font-size: 72px;
+        }
+
+        @include media-breakpoint-up(lg) {
+            font-size: 84px;
+        }
+    }
+
+    .site-tagline {
+        font-family: 'NeverMind', sans-serif;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 1.4;
+        color: #3E3E3E;
+        margin: 0;
+
+        @include media-breakpoint-up(md) {
+            font-size: 22px;
+        }
+
+        @include media-breakpoint-up(lg) {
+            font-size: 26px;
+        }
+    }
+}
+
+// Legacy class for backwards compatibility
 .sitetag {
-    font-weight:100;  
-    color: #BCA060;  
+    font-weight:100;
+    color: #BCA060;
     line-height:1.3;
     font-size:20px;
     @include media-breakpoint-up(sm) {
@@ -219,8 +271,8 @@ img, img:hover {
 // menu
 .navbar-brand img {
     max-height:80px;
-    margin-bottom:40px;
-    margin-top:40px;
+    margin-bottom:25px;
+    margin-top:15px;
 }
 .sidebar {
     position: fixed;
@@ -409,12 +461,15 @@ img, img:hover {
         grid-column-end: 3;
         grid-row-start: 1;
         grid-row-end: 3;
-        flex-direction: column;  
+        flex-direction: column;
         align-items: flex-start;
         font-size: 1em;
         padding:0;
         .card-title {
             font-size:28px;
+        }
+        .card-text {
+            display: block;
         }
         .img-thumb {
             object-fit:cover;
@@ -425,9 +480,6 @@ img, img:hover {
     }
 
     .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
-        .card-text {
-            display:none;
-        }
         .img-thumb {
             object-fit:cover;
             height:160px;
@@ -437,7 +489,7 @@ img, img:hover {
         .card-title {
             font-size:18px;
             line-height:1.5;
-        }      
+        }
     }
 }
 
@@ -590,6 +642,9 @@ img, img:hover {
     font-weight: 300;
     font-family: "Nevermind";
     font-size: 1.25rem;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 .external {
@@ -682,6 +737,113 @@ img, img:hover {
 .blockchain-verification a:hover {
     /* Utilizing the transition effects from the global styles */
     color: darken(#2986CC, 10%); /* Slightly darkened link color on hover */
+}
+
+// External Reference Box Styles
+.reference-box {
+    border: 1px solid #eaeaea;
+    border-radius: 0;
+    padding: 20px;
+    margin: 30px 0;
+    background-color: #fcfcfc;
+    font-family: 'Poppins', sans-serif;
+}
+
+.reference-box-content {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.reference-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.reference-icon {
+    min-width: 24px;
+}
+
+.reference-source {
+    font-size: 14px;
+    color: #616161;
+    font-weight: 300;
+}
+
+.reference-title {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.4;
+    font-family: 'Poppins', sans-serif;
+
+    a {
+        color: #BCA060;
+        text-decoration: none;
+        border-bottom: 1px solid #eaeaea;
+
+        &:hover {
+            border-bottom-color: #BCA060;
+        }
+    }
+}
+
+.reference-description {
+    margin: 0;
+    color: #3E3E3E;
+    font-size: 15px;
+    line-height: 1.7;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+}
+
+.reference-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.reference-date {
+    font-size: 14px;
+    color: #616161;
+    font-weight: 200;
+}
+
+.reference-link {
+    font-size: 14px;
+    color: #BCA060;
+    text-decoration: none;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+
+    &:hover {
+        color: darken(#BCA060, 10%);
+    }
+}
+
+// Icon styles for SVGs
+.icon-check-circle {
+    stroke: #BCA060;
+    stroke-width: 2;
+}
+
+.icon-arrow {
+    stroke: #BCA060;
+    stroke-width: 1.33333;
+}
+
+// Embedded content
+.embed-center {
+    text-align: center;
+    margin: 2em 0;
+
+    iframe {
+        max-width: 100%;
+    }
 }
 
 .c-rating button {

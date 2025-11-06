@@ -71,19 +71,18 @@
 
     <!-- Site Logo/Name
     ================================================== -->
-   
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-    </a>  
-   
 
-    <!-- Site Tag
-    ================================================== -->
-    {% if page.url == '/' %}
-        <p class="sitetag">
-            {{ site.description }}
-        </p>
-    {% endif %}
+    <div class="site-header">
+        <a class="navbar-brand" href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+        </a>
+        {% if page.url == '/' %}
+            <div class="header-text">
+                <h1 class="site-title">{{ site.title }}</h1>
+                <p class="site-tagline">{{ site.description }}</p>
+            </div>
+        {% endif %}
+    </div>
 
     <!-- Content
     ================================================== -->

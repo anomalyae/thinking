@@ -12,6 +12,8 @@ tags: [ Ethical-Infrastructure, Framework]
 
 image: assets/images/thoughtcompute.jpg
 
+excerpt: "All the talk of reasoning models, agents and LLMs that 'think' may inadvertently set a dangerous precedent; one in which society accepts that AI models are capable of thought, a uniquely human trait."
+
 ---
 
 <article>

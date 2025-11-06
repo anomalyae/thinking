@@ -5,8 +5,9 @@ author: Yasser
 categories: [Thesis]
 tags: [ Ethical-Infrastructure, Framework ]
 image: assets/images/agents.jpg
-blockchain: "Arbitrum" 
-transaction_hash: "0xd7918c3b60daee5b9aa725486c742c1ae2a9139a34b1c1e9f5e1460c8cde64e0" 
+blockchain: "Arbitrum"
+transaction_hash: "0xd7918c3b60daee5b9aa725486c742c1ae2a9139a34b1c1e9f5e1460c8cde64e0"
+excerpt: "No one can agree on what an AI agent is, but everyone's selling one. Buzzwords often do more harm than good and Agent is the latest in this list."
 ---
 
 <p class="font-nevermind green"> No one can agree on what an AI agent is,  but everyone’s selling one.</p>

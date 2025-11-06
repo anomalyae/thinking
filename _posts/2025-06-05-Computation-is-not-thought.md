@@ -272,7 +272,7 @@ Read more
 
 <p class="font-nevermind">Introducing Paradox: an AI-assisted writing studio.</p>
 
-<p class="font-nevermind">We believe writing is an art intricately intertwined with thought, which cannot be supplanted by technology. Some thoughts are only reachable via writing while some writing is only possible after deep thought. A spark, which often starts as a thought, a question or an idea often evolves into something strikingly different, through many spirals of refinement.</p>
+<p class="font-nevermind">We believe writing is an art intricately intertwined with thought, and cannot be supplanted by technology. Some thoughts are only reachable via writing while some writing is only possible after deep thought. A spark, which often starts as a thought, a question or an idea over time often evolves into something strikingly different, through many spirals of refinement. A uniquely human outcome.</p>
 
 <p>Inspiration, information and insights continue to originate from surprising sources and require timely capture, integration and collation with human thought.</p>
 
@@ -284,15 +284,15 @@ Read more
 
 <ul class="custom-bullets">
 
-<li>Preserves Cognitive Sovereignty: By removing direct conversation with the AI model, users are forced to articulate their thoughts first.</li>
+<li>Preserves cognitive sovereignty: By removing direct conversation with the AI model, users are forced to articulate their thoughts first.</li>
 
-<li>Visual Separation of Domains: The split-screen separates human thought from machine computation while maintaining connection between the two; a link which enables collaboration and continuity.</li>
+<li>Visual separation of domains: The split-screen separates human thought from machine computation while maintaining connection between the two; a link which enables collaboration and continuity.</li>
 
-<li>Version Spine for Drafts: A visual map to navigate and manage the evolution of ideas, this serves a functional time machine by technologizing the iterative nature of writing and thought development.</li>
+<li>Version Spine for Drafts: A visual map to navigate and manage the evolution of ideas, this serves a functional time machine by technologizing the continuous nature of writing and thought development. A purely human process</li>
 
-<li>Floating Capture Window: Persistent dictation-enabled, note-taking interface for capturing fleeting thoughts while browsing, researching, or working away from the main writing interface</li>
+<li>Floating capture window: An additive, persistent dictation-enabled, note-taking interface for capturing fleeting thoughts while browsing, researching, or working away from the main writing interface</li>
 
-<li>Multi-export: With native support for PDFs, JSON, Markdown, DOCX, HTML and TXT files, Paradox is a single platform covering most modern writing use cases.</li>
+<li>Multi-export: With native support for PDFs, JSON, Markdown, DOCX, HTML and TXT files, and integrations for Dropbox, Google Drive and Ghost, Paradox is a single platform covering most modern writing use cases.</li>
 
 <li>AI as Editor: The compute window serves as an editorial partner, evaluating writing, proofreading text, suggesting additional content and refining tone. Removing the ability to instruct the model means AI can only contribute to your ideas, not assume control. This positions AI as a guiding tool that improves human output, rather than a computer that replaces human thought.</li>
 

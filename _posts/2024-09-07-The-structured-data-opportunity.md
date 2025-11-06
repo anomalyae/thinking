@@ -5,6 +5,7 @@ author: Yasser
 categories: [ Work ]
 tags: [ Business Strategy, Employment ]
 image: assets/images/sdo.jpg
+published: false
 ---
 
 <p>As technology continues to reshape our world, a new paradigm forgoing traditional economic fundamentals has emerged, with data at its core.<br> Pivotal in seeding future value and reshaping business dynamics in <i>the</i> AI era, data is the unfair advantage enabling exponential growth and parabolic moves in productivity for AI-enabled businesses everywhere.</p>

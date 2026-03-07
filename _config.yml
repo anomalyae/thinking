@@ -1,7 +1,7 @@
 # Site
 name: "Anomaly LLC-FZ"
 title: "Clarity"
-description: "Writings from our vantage point at Anomaly"
+description: "Writings from our perspective at Anomaly"
 logo: 'assets/images/glitch.png'
 favicon: 'assets/images/glitch.png'
 url: "https://thinking.anomaly.ae"
@@ -12,7 +12,6 @@ mixpanel_token: '4bf983e3bdd2697d020a29c56a2d913b'
 include: ["_pages"]
 permalink: /:title/
 email: development@anomaly.ae
-remote_theme: wowthemesnet/jekyll-theme-memoirs
 
 # Authors
 authors:
@@ -32,7 +31,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-  - jekyll-remote-theme
     
 # Archives
 jekyll-archives:
@@ -45,6 +43,7 @@ jekyll-archives:
 # Pagination 
 paginate: 6
 paginate_path: /page:num/
+force_polling: true
     
 # Other
 highlighter: none

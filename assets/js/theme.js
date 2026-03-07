@@ -69,38 +69,6 @@ setTimeout(function(){
 	document.body.className="";
 },500);
 
-// Open/close navigation when clicked .nav-icon
-$(document).ready(function(){
-	$('.nav-icon').click(function(){
-		$('.nav-icon').toggleClass('active');
-	});
-	$(".nav-icon").click(function(){
-		$("#menu").toggleClass('active');
-	});
-	$(".nav-icon").click(function(){
-		$("#blackover-nav").toggleClass('active');
-	});
-	$(".nav-icon").click(function(){
-		$("body").toggleClass('active-side');
-	});
-});
-
-// Close navigation when clicked .blackover (Black background)
-$(document).ready(function(){
-	$("#blackover-nav").click(function(){
-		$(".nav-icon").removeClass('active');
-	});
-	$("#blackover-nav").click(function(){
-		$("#menu").removeClass('active');
-	});
-	$("#blackover-nav").click(function(){
-		$("#blackover-nav").removeClass('active');
-	});
-	$("#blackover-nav").click(function(){
-		$("body").removeClass('active-side');
-	});
-});
-
 // Grid selector Inspiration
 $(document).ready(function(){
 	$(".grid-selector").click(function(){
@@ -110,16 +78,6 @@ $(document).ready(function(){
 		$(".post").toggleClass('active');
 	});
 });
-
-$(document).keyup(function(e) {
-	if (e.keyCode == 27) { 
-		$(".nav-icon").removeClass('active');
-		$("#menu").removeClass('active');
-		$("#blackover-nav").removeClass('active');
-		$("body").removeClass('active-side');
-	}
-});
-
 
 // remove all :hover stylesheets on mobile
 function hasTouch() {

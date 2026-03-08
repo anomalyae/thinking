@@ -9,6 +9,7 @@ author: Anomaly
 categories: [ Thesis ]
 
 tags: [ Ethical-Infrastructure, Framework]
+card_pill: "AI Risk"
 
 image: assets/images/thoughtcompute.webp
 
@@ -307,4 +308,3 @@ Read more
 </section>
 
 </article>
-

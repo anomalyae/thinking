@@ -4,6 +4,7 @@ title:  "Trivial Pursuit? - Jobs In The Age Of AI"
 author: Anomaly
 categories: [ Thesis ]
 tags: [ Human-Energy, Framework]
+card_pill: "Future of Work"
 image: assets/images/jobs-ai.jpg
 ---
 
@@ -96,5 +97,4 @@ A job is the regular work that a person does to earn money.
 <p>No, we are not doomed. <a href="https://thinking.anomaly.ae/Computation-is-not-thought/" class="blue" target="_blank"> Machines cannot think</a> and genuine creativity is the exclusive domain of humans. Instead of just reskilling for the AI-era, we have the opportunity to optimize human energy allocation by helping people <a href="http://www.humanenergy.ai" class="blue" target="_blank">discover latent potential</a>, find ideal roles, collaborate with complementary archetypes, infuse innovation into stagnant cultures and much, much more. </p>
 <p> We anticipate a rise in entrepreneurship and solo ventures as AI enables those with vision, perseverance and fortitude to forge ahead. We also expect some traditional employment to oscillate from single and static, to fractional and fluid. This paradigm will likely be very different from gig work in that it'll be based on individual contributor strengths rather than interchangeable contributor abilities.</p> 
 <p>We expect the future to spawn many new employee-centric methodologies and ecosystems as we navigate to a world where people’s unique energies find expression in work that matters to them.</p>
-
 

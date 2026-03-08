@@ -17,6 +17,9 @@
             </a>
         </div>
         <div class="card-body">
+            {% if post.card_pill %}
+            <div class="card-pill">{{ post.card_pill }}</div>
+            {% endif %}
             <h2 class="card-title">
                 <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 {% if post.rating %}

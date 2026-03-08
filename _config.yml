@@ -6,7 +6,7 @@ logo: 'assets/images/glitch.png'
 favicon: 'assets/images/glitch.png'
 url: "https://thinking.anomaly.ae"
 baseurl: ""
-asset_version: "20260308b"
+asset_version: "20260308c"
 # Analytics
 # google_analytics: '' # Not using GA
 mixpanel_token: '4bf983e3bdd2697d020a29c56a2d913b'

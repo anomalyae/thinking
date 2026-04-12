@@ -9,27 +9,34 @@ image: assets/images/jobs-ai.jpg
 ---
 
 
-Much has been said about AI displacing jobs, much continues to be said.
 
-<p>Any discussion of this magnitude should be framed and focused.<br>Technology is a tool, sometimes borne of necessity but mostly of the human capacity to imagine, which puts more within human reach. It has the power to uplift or tear down, to build or destroy.</p>
-AI is a powerful tool differentiated in its distribution and unprecedented accessibility.
-A job is the regular work that a person does to earn money.
 
-<p class="font-nevermind">A historical analysis will tell you technology displaces jobs but creates many more as it runs its arc. It spawns entire new industries, some adjacent and some divergent. A machine can work cheaper, better, faster and longer than you can, about this there should be no debate, but this does not mean we teleport to <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1488457/full" class="blue" target="_blank">Universal Basic Income</a> because everyone will be out of work.</p>
+<p>Much has been said about AI displacing jobs, much continues to be said. Given the magnitude of the discussion, proper framing is warranted. </p>
+<p>Technology is a tool, sometimes borne of necessity but mostly of the human capacity to imagine, which puts more within human reach and has the power to uplift or tear down, to build or destroy. AI is a multimodal tool with reasoning abilities and unprecedented accessibility. It's available everywhere and mostly subsidized to increase engagement. Meanwhile, a job is the regular work that a person does to earn money.</p>
+<p>A quick glance at history verifies that technology displaces jobs but creates many more as it runs its arc. It spawns entire new industries which branch out into others.</p>
+
+
+<p>A machine can work cheaper, better, faster and longer than a human can, about this there should be no debate, but this does not mean we teleport to Universal Basic Income because everyone will be out of work.</p>
 
 <h4 class="section-header">What is Work?</h4>
 
 
-<p class="font-nevermind"> Let's take a closer look at the nature of work and try to answer the question: <i>Why do we work?</i> </p>
+<p class="font-nevermind"> 
+Let's try to answer the question: Why do we work? </p>
 
 
 
 ![Reasons why humans work](/assets/images/reasons.png){: .magnifiable}
 
 
-<p class="nevermind"> Some reasons matter more than others, but overall to make ends meet, secure our future, be a part of something and many others loosely related to Maslow's hierarchy of needs.<br> These reasons represent the System Level which then extends to the Execution Level (Job) and the Method Level(Tasks). These map to the Why, the What and the How.</p>
+<p>This diagram attempts to answer the Why. 
 
+The reasons are many, and while some matter more than others, we do it to make ends meet, secure our future, be a part of something and many others loosely related to Maslow's hierarchy of needs.</p>
+
+<p>What about the flip side? Why do companies hire people (Jobs)? They do it to fulfil a specific set of requirements (purpose), and are incentivized to maximize profits. i.e for the lowest cost.</p>
 <img src="{{ '/assets/images/Dissection.svg' | relative_url }}">
+
+<p>So jobs are created to fulfil a purpose, and this is usually accomplished by humans executing specific tasks. Viewed through the lens of systems, these reasons combined represent the System Level (purpose) which extends to the Execution Level (Job) and the Method Level(Tasks). These map to the Why, the What and the How.</p>
 
 <h4 class="section-header">Does Work Stop?</h4>
 
@@ -74,16 +81,24 @@ A job is the regular work that a person does to earn money.
     </div>
 
 
- <p class="font-nevermind"> Now, as a current day thought experiment, let's imagine everyone is economically secure, socially content, adequately credentialed and has an abundance of time. Let's even add Universal Basic Income in the mix. <i>Do humans stop working?</i> Do writers, actors, engineers, bakers, photographers, thinkers, entertainers all call it quits? No, the very notion is absurd.</p>
+ <p class="font-nevermind"> Now, as a current-day thought experiment,  imagine everyone is economically secure, socially content, adequately credentialed and has an abundance of time. Let's even add Universal Basic Income in the mix.</p>
+ <p>Do humans stop working? Do writers, actors, engineers, bakers, photographers, thinkers, entertainers all call it quits? No, the very notion is absurd.</p>
 
 > We work because we possess creative energy which requires expression, and curiosity that demands action; the power to imagine and the desire to pursue that vision's fulfillment. 
 
 <img src="{{ '/assets/images/Energy.svg' | relative_url }}">
 
 
-<p class="font-nevermind">Creative Energy is the fundamental substrate other levels serve to channel and direct. Systems are energy-organizing structures which channel energy as a conduit to create value.<br> Through this lens, we can take an <i>oversimplified</i> look at work as energy being allocated on the spectrum of creation and facilitation [less creative energy]. Creation involves everything required to bring new things - products, ideas, plans, systems, and experiences - into existence. Facilitation is concerned with enabling, organizing, implementing or optimizing what already exists or what others are creating. <br>Most work contains elements of both, but tends to lean more in one direction contextually. Some industries, like medical, legal and finance, tend to have a healthy mix of both.</p>
+<p class="font-nevermind">Creative Energy is the fundamental substrate other levels serve to channel and direct. Systems are energy-organizing structures which channel energy as a conduit to create value. Across industries, premiums are commanded by the most creative - those who have a way -  whether they are lawyers, chefs, consultants, doctors, tennis players, musicians or anything else. The demand is endless, and the domain - creativity - is uniquely human.</p>
+
+<p>Creative problem-solving and strategy - a skill that requires creativity and context - are not the direct domains of AI which can only mimic creativity through pattern recombination. Large Language Models (LLMs) are just that; language models, and before compute is intensified to implement problem-solving, the domain that is easiest to disrupt is language. The real-world implication of this encapsulates computer languages and written language. LLM's will write code and words more efficiently than human beings which means industries that rely on those skills will be impacted first, but not where creativity is required.</p>
+
+<p>Having the ability to harness an LLM to code faster and correctly does replace software developers because the incentives align for businesses and the effort to do so is low, but it also produces many more software creators who previously had an execution limitation. In other words, automation reduces the cost of the function, but increases the demand of the output while creating new, higher-level jobs that were not possible before. </p>
+
+<p>As such, AI is unlikely to spawn novel creative digital products and services, while humans will certainly leverage AI to do so, and in turn, inspire and hire many other humans. </p>
 
  <p class="font-nevermind">Facilitation i.e. low creative energy work - organizing existing information, following established processes, coordinating routine tasks - maps well onto what current AI systems do effectively. These are <a href='https://thinking.anomaly.ae/Agents-of-chaos/' class="blue" target="_blank"> scoped areas</a> where the intelligence required is more about pattern recognition, repetition, rule-following, and optimization within defined parameters.</p>
+
 
 
 <p class="font-nevermind">This is a long-winded way to say that AI will not displace jobs, rather displace stagnated energy. A suboptimal job is essentially inefficient energy allocation; human creative capacity trapped in work that doesn't warrant it. Displacement in these cases need not be destructive, but can be liberating as it forces the energy to find better outlets.</p>
@@ -92,9 +107,9 @@ A job is the regular work that a person does to earn money.
 
 <h5 class="section-header">Anomaly’s Stance: Human Energy Architecture</h5>
 
-<p class="font-nevermind"> <p>We believe Generative AI is an equalizer and will create more artists.</p>
-<p>Yes, there will be more noise to sift through but AI is a net positive for Human Energy and Agency. We view this initial wave as an opportunity to improve on the status quo by understanding the architecture of <a href="http://www.thinking.anomaly.ae/human-energy" class="blue" target="_blank">Human Energy</a>, our thesis and framework for optimizing energy and increasing Human Agency.</p>
-<p>No, we are not doomed. <a href="https://thinking.anomaly.ae/Computation-is-not-thought/" class="blue" target="_blank"> Machines cannot think</a> and genuine creativity is the exclusive domain of humans. Instead of just reskilling for the AI-era, we have the opportunity to optimize human energy allocation by helping people <a href="http://www.humanenergy.ai" class="blue" target="_blank">discover latent potential</a>, find ideal roles, collaborate with complementary archetypes, infuse innovation into stagnant cultures and much, much more. </p>
+<p class="font-nevermind"> <p>We believe Generative AI is an equalizer and will create more artists and entrepreneurs.</p>
+<p>Yes, there will be more noise to sift through but AI is a net positive for Human Energy and Agency. 
+<p>No, we are not doomed. <a href="https://thinking.anomaly.ae/Computation-is-not-thought/" class="blue" target="_blank"> Machines cannot think</a> and genuine creativity is the exclusive domain of humans. Instead of just reskilling for the AI-era, we have the opportunity to optimize human energy allocation by helping people <a href="http://www.humanenergy.ai" class="blue" target="_blank">discover latent potential</a>.</p>
 <p> We anticipate a rise in entrepreneurship and solo ventures as AI enables those with vision, perseverance and fortitude to forge ahead. We also expect some traditional employment to oscillate from single and static, to fractional and fluid. This paradigm will likely be very different from gig work in that it'll be based on individual contributor strengths rather than interchangeable contributor abilities.</p> 
 <p>We expect the future to spawn many new employee-centric methodologies and ecosystems as we navigate to a world where people’s unique energies find expression in work that matters to them.</p>
 

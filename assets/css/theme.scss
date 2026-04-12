@@ -14,17 +14,18 @@ $enable-rounded: false;
 
 @import "bootstrap/functions";
 @import 'bootstrap/variables';
+$font-family-sans-serif: 'Open Sans', sans-serif;
+$font-family-base: $font-family-sans-serif;
+$headings-font-family: 'Poppins', sans-serif;
+$input-btn-font-family: 'Poppins', sans-serif;
 @import "bootstrap/mixins";
 @import 'bootstrap/bootstrap';
 @import 'stars';
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&family=Poppins:wght@100;200;300;500;600&display=swap');
-@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/nevermind.min.css");
-
 
 // general
 body, input, button, select, optgroup, textarea {   
-    
+    font-family: 'Open Sans', sans-serif;
 }
 body {
     line-height:1.7;
@@ -96,6 +97,7 @@ h2 {
                 font-weight: 300;
                 color: #3E3E3E;
                 vertical-align: top;
+                font-family: 'Open Sans', sans-serif;
             }
             
             td:first-child {
@@ -217,7 +219,7 @@ h2 {
 }
 
 blockquote {
-    font-family: Poppins;
+    font-family: 'Open Sans', sans-serif;
     font-style: italic;
     font-size: 20px;
     position:relative;
@@ -443,12 +445,12 @@ img, img:hover {
         line-height:1.6;
         margin-top:15px;
         color: #212326;
-        font-family: 'Poppins', sans-serif;
+        font-family: 'Open Sans', sans-serif;
     }
     .reading-time {
         font-size: 14px;
         color: #616161;
-        font-family: 'Poppins', sans-serif;
+        font-family: 'Open Sans', sans-serif;
         font-weight: 300;
         margin-top: 10px;
     }
@@ -487,6 +489,7 @@ img, img:hover {
         }
         .card-text {
             display: block;
+            max-width: 72ch;
         }
         .img-thumb {
             object-fit:cover;
@@ -582,6 +585,7 @@ img, img:hover {
     margin-bottom:50px;
     .author-description {
         font-size:16px;
+        font-family: 'Open Sans', sans-serif;
     }
     .author-thumb {
         width:70px;
@@ -594,7 +598,7 @@ img, img:hover {
     font-size:18px;
     p {
         color: #3E3E3E;
-        font-family: 'Poppins', sans-serif;
+        font-family: 'Open Sans', sans-serif;
         margin-top:30px;
         margin-bottom:30px;
         font-weight: 300;
@@ -620,7 +624,7 @@ img, img:hover {
 .list-header {
     color: #CBAF69;
     font-weight: 300;
-    font-family: "Nevermind";
+    font-family: 'NeverMind', sans-serif;
     font-size: 1.25rem;
     display: block;
     margin-top: 20px;
@@ -675,7 +679,7 @@ img, img:hover {
   padding-left: 1.5em;
   margin-bottom: 12px;
   color: #3E3E3E;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   line-height: 1.7;
 }
@@ -698,7 +702,7 @@ img, img:hover {
 .blockchain-verification {
     font-size: 14px; /* Slightly smaller than body text, using px for consistency with other font sizes */
     color: #3E3E3E; /* Matches the paragraph color in the stylesheet */
-    font-family: 'Poppins', sans-serif; /* Consistent with body text */
+    font-family: 'Open Sans', sans-serif; /* Consistent with body text */
     font-weight: 300; /* Matches paragraph font weight */
     font-style: normal; /* Removed italic to match body text style */
     margin-top: 15px; /* Adds some vertical spacing consistent with other elements */
@@ -749,6 +753,7 @@ img, img:hover {
     font-size: 14px;
     color: #616161;
     font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .reference-title {
@@ -775,7 +780,7 @@ img, img:hover {
     font-size: 15px;
     line-height: 1.7;
     font-weight: 300;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .reference-meta {
@@ -789,6 +794,7 @@ img, img:hover {
     font-size: 14px;
     color: #616161;
     font-weight: 200;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .reference-link {
@@ -850,7 +856,7 @@ img, img:hover {
         line-height: 1;
         padding: 2px 3px;
         width: 150px;
-        font-family: Arial;
+        font-family: 'Open Sans', sans-serif;
         text-align: center;
         border-radius: 3px;
         transition: all .4s;
@@ -1038,6 +1044,7 @@ img, img:hover {
     color: #9a9a9a;
     font-size: 0.9rem;
     white-space: nowrap;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .footer-links {

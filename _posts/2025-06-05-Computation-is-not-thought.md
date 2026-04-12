@@ -277,7 +277,7 @@ Read more
 
 <p class="font-nevermind">Writing is an art intricately intertwined with thought, the basis of ideas and creation. Since thinking is the origin of innovation and growth, it should be nurtured and protected. With different tools at our disposal, we all follow a different creative process.</p>
 
-<p>Paradox is a product spun out from our own internal use. It was created to support the way we cultivate ideas: some mind-mapping, AI-assisted chats, comparisons across conversations, visual planning, writing to add details, and prototyping on a persistent surface; a process that would have required five separate apps and a constant struggle for momentum. Few tools exist for connected workflows that enable users to retain full control over context and generations while planning for a specific objective.</p>
+<p><a href="https://www.paradox.website" class="blue" target="_blank">Paradox</a> is a product spun out from our own internal use. It was created to support the way we cultivate ideas: some mind-mapping, AI-assisted chats, comparisons across conversations, visual planning, writing to add details, and prototyping on a persistent surface; a process that would have required five separate apps and a constant struggle for momentum. Few tools exist for connected workflows that enable users to retain full control over context and generations while planning for a specific objective.</p>
 
 <p>Knowledge also compounds as human understanding develops and branches over time. Instead of taking thoughts to a chat interface, we needed a system that would take the things we do daily, and compound them in an additive, controllable, reusable substrate.</p>
 
@@ -294,7 +294,6 @@ Read more
 <li>Visual separation of domains: The split-screen separates human thought from machine computation while maintaining connection between the two; a link which enables collaboration and continuity.</li>
 
 <li>Version Spine for Drafts: A visual map to navigate and manage the evolution of ideas, this serves a functional time machine  for the continuous and branching nature of writing.</li>
-
 
 <li>Multi-export: With native support for PDFs, JSON, Markdown, DOCX, HTML and TXT files, and integrations for Dropbox, Google Drive and Ghost, Paradox is a single platform covering most modern writing use cases.</li>
 

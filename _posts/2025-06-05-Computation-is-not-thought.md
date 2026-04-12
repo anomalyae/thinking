@@ -273,35 +273,38 @@ Read more
 
 <p class="font-nevermind"> Instead of leveraging the technology to amplify our own outputs, the trend to replace thinking is rising, perhaps led by the proliferation of Generative AI tools which prioritise quantity and speed. This leaves a vacuum for tools that prioritise quality, and a design space to explore for retaining creative control; technology that elevates, rather than erodes human intellect.</p>
 
-<p class="font-nevermind">Introducing Paradox: an AI-assisted writing studio.</p>
+<p class="font-nevermind">Introducing Paradox: A personal knowledge layer with AI-assistance. </p>
 
-<p class="font-nevermind">We believe writing is an art intricately intertwined with thought, and cannot be supplanted by technology. Some thoughts are only reachable via writing while some writing is only possible after deep thought. A spark, which often starts as a thought, a question or an idea over time often evolves into something strikingly different, through many spirals of refinement. A uniquely human outcome.</p>
+<p class="font-nevermind">Writing is an art intricately intertwined with thought, the basis of ideas and creation. Since thinking is the origin of innovation and growth, it should be nurtured and protected. With different tools at our disposal, we all follow a different creative process.</p>
 
-<p>Inspiration, information and insights continue to originate from surprising sources and require timely capture, integration and collation with human thought.</p>
+<p>Paradox is a product spun out from our own internal use. It was created to support the way we cultivate ideas: some mind-mapping, AI-assisted chats, comparisons across conversations, visual planning, writing to add details, and prototyping on a persistent surface; a process that would have required five separate apps and a constant struggle for momentum. Few tools exist for connected workflows that enable users to retain full control over context and generations while planning for a specific objective.</p>
 
-<p>The iterative nature of idea development, storytelling, and design requires a tool which accommodates the process, provides assistance and unlocks momentum without compromising creative control.</p>
+<p>Knowledge also compounds as human understanding develops and branches over time. Instead of taking thoughts to a chat interface, we needed a system that would take the things we do daily, and compound them in an additive, controllable, reusable substrate.</p>
 
-<p class="font-nevermind">We built Paradox - a product we're spinning out from our own internal use - to do all this and more. We created it to write, to think, and to write to think.</p>
+<p>This is where Paradox lies: a personal, living, connected knowledge layer that grows and evolves with everyday use. Everything users do results in semantically enriched data.</p>
 
 <p class="font-nevermind">Features:</p>
 
 <ul class="custom-bullets">
 
-<li>Preserves cognitive sovereignty: By removing direct conversation with the AI model, users are forced to articulate their thoughts first.</li>
+<li>Native Chat connected to a canvas: Chat connected to your documents, previous chats, and context connected via topic-tags. Import, highlight and distill information from your chats with ChatGPT and Claude, and inject it into new chats, or new or existing documents.</li>
+
+<li>A canvas connected to an editor: Paradox Canvas is a visual planning and generative surface where each node is connected to Paradox Editor; a full, human-first writing app redesigned for the AI-era</li>
 
 <li>Visual separation of domains: The split-screen separates human thought from machine computation while maintaining connection between the two; a link which enables collaboration and continuity.</li>
 
 <li>Version Spine for Drafts: A visual map to navigate and manage the evolution of ideas, this serves a functional time machine by technologizing the continuous nature of writing and thought development. A purely human process</li>
 
-<li>Floating capture window: An additive, persistent dictation-enabled, note-taking interface for capturing fleeting thoughts while browsing, researching, or working away from the main writing interface</li>
 
 <li>Multi-export: With native support for PDFs, JSON, Markdown, DOCX, HTML and TXT files, and integrations for Dropbox, Google Drive and Ghost, Paradox is a single platform covering most modern writing use cases.</li>
 
-<li>AI as Editor: The compute window serves as an editorial partner, evaluating writing, proofreading text, suggesting additional content and refining tone. Removing the ability to instruct the model means AI can only contribute to your ideas, not assume control. This positions AI as a guiding tool that improves human output, rather than a computer that replaces human thought.</li>
+<li>A generative canvas for creating creating multi-channel outputs. An inertia-defeating way to create visuals, twitter threads, blog posts, LinkedIn posts and more from your writing while staying in control of the creative process. </li>
 
 </ul>
 
-<p class="font-nevermind">LLMs are perfidious teachers, but make for instructors par excellence. <br>Devoid of genuine artistry, they can nonetheless improve productivity and speed, provide personalized insights, and facilitate deepening the execution of our own unique creative signatures.</p>
+<p class="font-nevermind">
+LLMs are powerful partners for refining human thought. Combined with Paradox’s connected workflows and compounding knowledge layer, they form a system where knowledge evolves organically and ideas take shape naturally.
+</p>
 
 </div>
 

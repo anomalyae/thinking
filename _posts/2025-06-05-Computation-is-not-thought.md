@@ -293,7 +293,7 @@ Read more
 
 <li>Visual separation of domains: The split-screen separates human thought from machine computation while maintaining connection between the two; a link which enables collaboration and continuity.</li>
 
-<li>Version Spine for Drafts: A visual map to navigate and manage the evolution of ideas, this serves a functional time machine by technologizing the continuous nature of writing and thought development. A purely human process</li>
+<li>Version Spine for Drafts: A visual map to navigate and manage the evolution of ideas, this serves a functional time machine  for the continuous and branching nature of writing.</li>
 
 
 <li>Multi-export: With native support for PDFs, JSON, Markdown, DOCX, HTML and TXT files, and integrations for Dropbox, Google Drive and Ghost, Paradox is a single platform covering most modern writing use cases.</li>

@@ -290,7 +290,7 @@ Read more
 
 <li>Paradox Editor: A writing app built for the AI-age, it features a split-screen for human-AI collaboration without surrendering control to AI-generated content. Also included is a built-in Version Spine which enables exploration, and functions as a time machine for the continuous and branching nature of writing.</li>
 
-<li>Native Chat: Chat connected to your documents, chats, canvas and context. Users can also import, highlight and distill information from previous chats with ChatGPT and Claude, and inject it into new chats, or new or existing documents thereby transforming segments of previous chats into enduring knowledge.</li>
+<li>Native Chat: Talk to AI with your documents, previous chats, and topic-based context connected. Use bits or all of your conversation in your docs and canvas generations. Users can also import, highlight and distill information from previous chats with ChatGPT and Claude, and inject it into new chats, or new or existing documents thereby transforming segments of previous chats into enduring knowledge.</li>
 
 <li>Paradox Canvas: A visual planning, control and generative surface, users can transform their writing into social media content, visuals, twitter threads, LinkedIn posts, blog posts and more instantly. </li>
 

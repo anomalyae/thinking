@@ -276,7 +276,7 @@ Read more
 <p class="font-nevermind">Introducing Paradox: A personal interconnected workspace to bring AI to your work. </p>
 
 
-<p><a href="https://www.paradox.website" class="blue" target="_blank">Paradox</a> is a product spun out from our own internal use. It was created to support the way we develop and refine ideas: mind-mapping ideas, brainstorming with AI, aggregating knowledge, visual planning and organizing thoughts, writing to add details, and prototyping on a persistent surface; a process that would have required five separate apps and ensured a lack of momentum. Few tools exist for connected workflows that enable users to retain full control over context and generations while planning for a specific objective.</p>
+<p><a href="https://www.paradox.website" class="blue" target="_blank">Paradox</a> is a product spun out from our own internal use. A workspace with a connected writing app, AI chat and a generative canvas, tt was created to support the way we develop and refine ideas: mind-mapping ideas, brainstorming with AI, aggregating knowledge, visual planning and organizing thoughts, writing to add details, and prototyping on a persistent surface; a process that previously required five separate apps and ensured a lack of momentum. Paradox prioritizes human voice and control, while leveraging AI's strengths for repetitive tasks and rapid execution.</p>
 
 <p>Knowledge also compounds as human understanding develops and branches over time. Instead of taking thoughts to a chat interface, we needed a system that would take the things we do daily, and compound them in an additive, controllable, reusable substrate.</p>
 

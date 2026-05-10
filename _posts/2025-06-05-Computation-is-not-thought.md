@@ -276,32 +276,31 @@ Read more
 <p class="font-nevermind">Introducing Paradox: A personal interconnected workspace to bring AI to your work. </p>
 
 
-<p><a href="https://www.paradox.website" class="blue" target="_blank">Paradox</a> is a product spun out from our own internal use. A workspace with a connected writing app, AI chat and a generative canvas, tt was created to support the way we develop and refine ideas: mind-mapping ideas, brainstorming with AI, aggregating knowledge, visual planning and organizing thoughts, writing to add details, and prototyping on a persistent surface; a process that previously required five separate apps and ensured a lack of momentum. Paradox prioritizes human voice and control, while leveraging AI's strengths for repetitive tasks and rapid execution.</p>
+<p><a href="https://www.paradox.website" class="blue" target="_blank">Paradox</a> is a product spun out from our own internal use. A personal workspace which includes an interconnected modern writing app, native AI chat and a generative canvas. It was created to support the way we develop and refine ideas: brain-dumping and planning visually, brainstorming with AI, aggregating references, suggestions and knowledge, and organizing thoughts before moving to writing and prototyping.</p> 
+
+<p>This process previously required five separate apps and ensured a lack of momentum, which Paradox solves by enabling users to start anywhere and move their work to any section of the app. Paradox prioritizes human voice and control while leveraging AI's strengths for repetitive tasks and rapid execution.</p>
 
 <p>Knowledge also compounds as human understanding develops and branches over time. Instead of taking thoughts to a chat interface, we needed a system that would take the things we do daily, and compound them in an additive, controllable, reusable substrate.</p>
 
-<p>This is where Paradox lies: a personal, living, connected knowledge layer that grows and evolves with everyday use. Everything users do results in semantically enriched data.</p>
+<p>This is where Paradox lies: a personal, living, connected knowledge layer that grows with everyday use. Everything users do results in semantically enriched, machine-readable data.</p>
 
-<p class="font-nevermind">Features:</p>
+<p class="font-nevermind">A connected workspace to accommodate any workflow:</p>
 
 <ul class="custom-bullets">
 
-<li>Native Chat connected to a canvas: Chat connected to your documents, previous chats, and context connected via topic-tags. Import, highlight and distill information from your chats with ChatGPT and Claude, and inject it into new chats, or new or existing documents.</li>
+<li>Paradox Editor: A writing app built for the AI-age, it features a split-screen for human-AI collaboration without surrendering control to AI-generated content. Also included is a built-in Version Spine which enables exploration, and functions as a time machine for the continuous and branching nature of writing.</li>
 
-<li>A canvas connected to an editor: Paradox Canvas is a visual planning and generative surface where each node is connected to Paradox Editor; a full, human-first writing app redesigned for the AI-era</li>
+<li>Native Chat: Chat connected to your documents, chats, canvas and context. Users can also import, highlight and distill information from previous chats with ChatGPT and Claude, and inject it into new chats, or new or existing documents thereby transforming segments of previous chats into enduring knowledge.</li>
 
-<li>Visual separation of domains: The split-screen separates human thought from machine computation while maintaining connection between the two; a link which enables collaboration and continuity.</li>
-
-<li>Version Spine for Drafts: A visual map to navigate and manage the evolution of ideas, this serves a functional time machine  for the continuous and branching nature of writing.</li>
+<li>Paradox Canvas: A visual planning, control and generative surface, users can transform their writing into social media content, visuals, twitter threads, LinkedIn posts, blog posts and more instantly. </li>
 
 <li>Multi-export: With native support for PDFs, JSON, Markdown, DOCX, HTML and TXT files, and integrations for Dropbox, Google Drive and Ghost, Paradox is a single platform covering most modern writing use cases.</li>
 
-<li>A generative canvas for creating creating multi-channel outputs. An inertia-defeating way to create visuals, twitter threads, blog posts, LinkedIn posts and more from your writing while staying in control of the creative process. </li>
 
 </ul>
 
 <p class="font-nevermind">
-LLMs are excellent instructors and partners in delivering human vision. Combined with Paradox’s connected workflow and compounding knowledge layer, they form a system where productivity is amplified and knowledge grows organically, while direction and control remains distinctly human.
+LLMs can be high-value, cost-effective partners for facilitating human vision. When combined with Paradox’s connected workflow and compounding knowledge layer, they form a system where productivity is amplified and knowledge grows organically, while direction and control remains distinctly human.
 </p>
 
 </div>

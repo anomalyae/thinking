@@ -271,13 +271,13 @@ Read more
 
 <p class="font-nevermind"> Our position prioritizes <a href="#" target="_blank" class="blue"> Human Agency</a> while recognizing that Artificial Intelligence represents a massive opportunity to bridge gaps in society.</p>
 
-<p class="font-nevermind"> Instead of leveraging the technology to amplify our own outputs, the trend to replace thinking is rising, perhaps led by the proliferation of Generative AI tools which prioritise quantity and speed. This leaves a vacuum for tools that prioritise quality, and a design space to explore for retaining creative control; technology that elevates, rather than erodes human intellect.</p>
+<p class="font-nevermind"> Instead of leveraging the technology to amplify our own outputs, the trend to replace thinking is rising, perhaps led by the proliferation of Generative AI tools which prioritise quantity and speed. This leaves a vacuum for tools that prioritise quality, and a design space to explore for retaining creative control; technology which elevates, rather than erodes human intellect.</p>
 
-<p class="font-nevermind">Introducing Paradox: A personal knowledge layer with AI-assistance. </p>
+<p class="font-nevermind">Introducing Paradox: A personal interconnected workspace to bring AI to your work. </p>
 
 <p class="font-nevermind">Writing is an art intricately intertwined with thought, the basis of ideas and creation. Since thinking is the origin of innovation and growth, it should be nurtured and protected. With different tools at our disposal, we all follow a different creative process.</p>
 
-<p><a href="https://www.paradox.website" class="blue" target="_blank">Paradox</a> is a product spun out from our own internal use. It was created to support the way we cultivate ideas: some mind-mapping, AI-assisted chats, comparisons across conversations, visual planning, writing to add details, and prototyping on a persistent surface; a process that would have required five separate apps and a constant struggle for momentum. Few tools exist for connected workflows that enable users to retain full control over context and generations while planning for a specific objective.</p>
+<p><a href="https://www.paradox.website" class="blue" target="_blank">Paradox</a> is a product spun out from our own internal use. It was created to support the way we develop and refine ideas: mind-mapping ideas, brainstorming with AI, aggregating knowledge, visual planning and organizing thoughts, writing to add details, and prototyping on a persistent surface; a process that would have required five separate apps and ensured a lack of momentum. Few tools exist for connected workflows that enable users to retain full control over context and generations while planning for a specific objective.</p>
 
 <p>Knowledge also compounds as human understanding develops and branches over time. Instead of taking thoughts to a chat interface, we needed a system that would take the things we do daily, and compound them in an additive, controllable, reusable substrate.</p>
 
@@ -302,7 +302,7 @@ Read more
 </ul>
 
 <p class="font-nevermind">
-LLMs are powerful partners for refining human thought. Combined with Paradox’s connected workflows and compounding knowledge layer, they form a system where knowledge evolves organically and ideas take shape naturally.
+LLMs are excellent instructors and partners in delivering human vision. Combined with Paradox’s connected workflows and compounding knowledge layer, they form a system where productivity is amplified, knowledge evolves organically while direction remains human.
 </p>
 
 </div>

@@ -125,7 +125,7 @@ There are operational mismatches as organizations tend to work in vertical silos
 
 <h4 class="section-header">Sovereign Does Not Mean Self-Built</h4>
 
-<p>This is likely to operate best as a composable substrate with a mixture of internal and external tools. The effort to build everything in-house would be cost-prohibitive even if it were possible. No organization, even the most sophisticated tools is capable of creating, maintaining and operating all of its software without diluting its focus.</p>
+<p>This is likely to operate best as a composable substrate with a mixture of internal and external tools. The effort to build everything in-house would be cost-prohibitive even if it were possible. No organization, even the most sophisticated tools, is capable of creating, maintaining and operating all of its software without diluting its focus.</p>
 
 <p>Sovereignty here means absolute control with interchangeable components making up the less important parts of the stack, while its core is owned and doesn't require the organization to be beholden to any specific vendor for its operations and growth. Most importantly perhaps, the substrate illustrated above lets most human capital continue doing what it does without having to relearn or upskill, while simultaneously infusing the organization with the intelligence and efficiencies of AI.</p>
 

@@ -31,9 +31,9 @@ There are operational mismatches as organizations tend to work in vertical silos
 <p>The ecosystem required to make AI work inside the enterprise requires a significant architectural change; a sovereign, pre-inference, model-agnostic layer inside the organizational boundary which augments existing infrastructure, assets and workflows, while protecting proprietary data and processes.</p>
 
 <p>Context is continuously produced by legacy applications, which means either updating those apps, or adding a reliable data conversion layer to their output, <i>so that a machine-readable substrate becomes the organic byproduct of everyday use</i>.</p>
-<p>Beyond this, the core can be extensible but requires at least three additional layers:</p>
+<p>Starting with this, the substrate can be extensible but requires at least three additional layers:</p>
 <ul class="custom-bullets">
-<li>A canonical substrate to establish <u>organizational state</u> (what is true now), and <u>memory</u> (what has been learned) including <u>context</u> (what is relevant to the task) and <u>provenance</u> (where it came from)</li> 
+<li>A canonical layer to establish <u>organizational state</u> (what is true now), and <u>memory</u> (what has been learned) including <u>context</u> (what is relevant to the task) and <u>provenance</u> (where it came from)</li> 
 <li>A governance layer for policy, identity and permissions</li>
 <li>An execution layer for model routers, agent runtime and tools etc.</li>
 </ul>
@@ -118,9 +118,9 @@ There are operational mismatches as organizations tend to work in vertical silos
 
 <p>"Maintaining stateful interactions and memory adds complexity and most companies aren’t ready to invest in the infrastructure needed for real agent-like systems when the technology arc hasn’t reached maturity. Even in the B2B context, it is a reenactment of the Cloud-based vs on-prem debate as organisations require personalisation - knowing their structures, workflows, repositories - for the technology to be truly effective, and this has security and dependency implications."</p>
 
-<p>This encapsulates the struggle enterprises have with integrating AI today: vendor dependency, governance and policy, memory and context. Coding agents have continued to improve as expected, arguably more than expected. That conclusion still holds: true agency requires personalization, in consumer and enterprise contexts alike. In the enterprise, personalization is a durable, governed understanding of owned and protected structures, workflows and repositories.</p>
+<p>This encapsulates the struggle enterprises have with integrating AI today: vendor dependency, governance and policy, memory and context, and data security.<br>As posited, coding agents have continued to improve, arguably more than expected, and the conclusion that true agency requires personalization still holds.<br>In enterprise terms, personalization is a durable, governed understanding of owned and protected data, structures, workflows and repositories.</p>
 
-<p>Separating knowledge from governance, policy and execution gives organizations control over context, identity and proprietary data prior to inference. Additionally, prefixing data conversion pipelines ensures that used data is current, and integration efforts minimize friction.</p>
+<p>Separating knowledge from governance, policy and execution gives organizations control over context, identity and proprietary data prior to inference. Additionally, prefixing data conversion pipelines ensures that used data is current, and that incremental integration efforts minimize friction.</p>
 
 
 <h4 class="section-header">Sovereign Does Not Mean Self-Built</h4>
@@ -136,7 +136,7 @@ There are operational mismatches as organizations tend to work in vertical silos
 
 <p>We believe AI fundamentally changes the operation, value and capability of software, and this requires a new architecture for human-software interaction.</p>
 
-<p>As inference costs collapse, capability standardizes and intelligence converges at comparable levels, the catalyst differentiating performance for the enterprise class will be the substrate and not the model. Building this infrastructure inside the organizational boundary is strategically more sound and sustainable, than chasing models and re-platforming annually while being vulnerable to variable costs and data leakage.</p>
+<p>As inference costs collapse, capability standardizes and intelligence converges at comparable levels, the catalyst differentiating performance for the enterprise class will be the substrate and not the model. Building this infrastructure inside the organizational boundary is strategically more sound and sustainable than chasing models and re-platforming annually, while being vulnerable to variable costs and data leakage.</p>
 
 <p>To illustrate this principle, we’ve built a narrow, composable component that can slot into any organization's data conversion layer. <a href="https://www.skygate.network" style="color: #BCA060; text-decoration: none; border-bottom: 1px solid #eaeaea;" target="_blank">Skygate</a> is a candidate intelligence data platform to help organizations create structured, machine-readable candidate objects.</p>
 
@@ -153,7 +153,7 @@ There are operational mismatches as organizations tend to work in vertical silos
 
   <!-- Input -->
   <rect x="30" y="70" width="170" height="56" fill="#ffffff" stroke="#dcdcdc" stroke-width="1" stroke-dasharray="5 4" />
-  <text x="115" y="103" font-family="Poppins, sans-serif" font-size="13" text-anchor="middle" font-weight="300" fill="#3E3E3E">PDF / DOCX Résumé</text>
+  <text x="115" y="103" font-family="Poppins, sans-serif" font-size="13" text-anchor="middle" font-weight="300" fill="#3E3E3E">PDF / DOCX Resume</text>
 
   <line x1="200" y1="98" x2="236" y2="98" stroke="#CBAF69" stroke-width="1.5" marker-end="url(#flow-arrow)" />
 

@@ -132,16 +132,16 @@ There are operational mismatches as organizations tend to work in vertical silos
 > A composable sovereign substrate is the architectural requirement for seamless AI integration in the enterprise.
 
 
-<h5 class="section-header">Anomaly's Stance: Composable Proof-of-Concept</h5>
+<h4 class="section-header">Anomaly's Stance: Composable Proof-of-Concept</h4>
 
 <p>We believe AI fundamentally changes the operation, value and capability of software, and this requires a new architecture for human-software interaction.</p>
 
 <p>As inference costs collapse, capability standardizes and intelligence converges at comparable levels, the catalyst differentiating performance for the enterprise class will be the substrate and not the model. Building this infrastructure inside the organizational boundary is strategically more sound and sustainable, than chasing models and re-platforming annually while being vulnerable to variable costs and data leakage.</p>
 
-<p>To illustrate this principle, we’ve built a narrow, composable component that can slot into any organization's data conversion layer. Skygate is a candidate intelligence data platform to help organizations create structured, machine-readable candidate objects.</p>
+<p>To illustrate this principle, we’ve built a narrow, composable component that can slot into any organization's data conversion layer. <a href="https://www.skygate.network" style="color: #BCA060; text-decoration: none; border-bottom: 1px solid #eaeaea;" target="_blank">Skygate</a> is a candidate intelligence data platform to help organizations create structured, machine-readable candidate objects.</p>
 
 <svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <title>A PDF or DOCX résumé is converted into a structured candidate object, which powers search, comparison, profiles, matching, exports, API access, branded résumés and rendered forms</title>
+  <title>A PDF or DOCX resume is converted into a structured candidate object, which powers search, comparison, profiles, matching, exports, API access, branded resumes and rendered forms</title>
   <defs>
     <marker id="flow-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
       <path d="M 0 0 L 10 5 L 0 10 z" fill="#CBAF69" />
@@ -185,7 +185,7 @@ There are operational mismatches as organizations tend to work in vertical silos
     <text x="700" y="123">API</text>
 
     <rect x="480" y="142" width="140" height="32" fill="#ffffff" stroke="#eaeaea" stroke-width="1" />
-    <text x="550" y="163">Branded Résumés</text>
+    <text x="550" y="163">Branded Resumes</text>
 
     <rect x="630" y="142" width="140" height="32" fill="#ffffff" stroke="#eaeaea" stroke-width="1" />
     <text x="700" y="163">Rendered Forms</text>
@@ -196,7 +196,6 @@ There are operational mismatches as organizations tend to work in vertical silos
 
 <p>Recruitment firms and large employers can turn resumes and hiring documents into structured, reusable data that can power existing systems and the next generation of AI-ready and operated applications, while keeping data and workflows private, remaining model-agnostic and increasing productivity.</p>
 
-<p>
 
 <p>It is upon a foundation with similar traits that hybrid human/machine corporate systems and structures will likely be built.</p>
 

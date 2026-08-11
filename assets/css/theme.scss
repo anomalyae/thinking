@@ -418,9 +418,6 @@ img, img:hover {
         border:0;
         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
         &:hover {
-           .card-title a {
-                background-size: 100% 100%;
-            }
             box-shadow: 0 6px 30px rgba(0, 0, 0, 0.08);
         }
     }
@@ -429,12 +426,8 @@ img, img:hover {
         font-size:22px;
         line-height:1.4;
         a { 
-            background-image: linear-gradient(180deg, transparent 98%, $primary 0);
-            background-repeat: no-repeat;
-            background-size: 0 100%;
-            transition: background-size .6s ease;
-            position:relative;
-            &:hover {
+            &:hover, &:focus {
+                color: $dark !important;
                 text-decoration:none;
             }
         }
@@ -445,6 +438,13 @@ img, img:hover {
         line-height:1.6;
         margin-top:15px;
         color: #212326;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .card-subtitle {
+        font-weight:400;
+        font-size: 1em;
+        line-height:1.5;
+        color: #343a40;
         font-family: 'Open Sans', sans-serif;
     }
     .reading-time {
@@ -484,6 +484,9 @@ img, img:hover {
         align-items: flex-start;
         font-size: 1em;
         padding:0;
+        .card {
+            width:100%;
+        }
         .card-title {
             font-size:28px;
         }
@@ -556,6 +559,15 @@ img, img:hover {
     font-weight:200;
     line-height:1.1;
     color: #BCA060;
+}
+.post-subtitle {
+    font-size:18px;
+    font-weight:400;
+    line-height:1.5;
+    color: #343a40;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 15px;
 }
 .entry-featured-image {  
     width:940px;  
@@ -651,7 +663,7 @@ img, img:hover {
     font-size: 26px;
     line-height: 1.3;
     margin-top: 45px;
-    margin-bottom: 0px;
+    margin-bottom: 15px;
     font-family: "Poppins", sans-serif;
     border-bottom: 1px solid #89c2d9;
     padding-bottom: 7px;

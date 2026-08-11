@@ -3,7 +3,7 @@ layout: post
 title:  "Agents of Chaos: The AI Hyperbole Risk"
 author: Yasser
 categories: [Thesis]
-tags: [ Ethical-Infrastructure, Framework ]
+tags: [ AI Strategy, Framework ]
 card_pill: "AI Strategy"
 image: assets/images/agents.webp
 blockchain: "Arbitrum"

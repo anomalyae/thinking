@@ -8,6 +8,11 @@ post_class: post-template
     <!-- Post Title -->
     <h1 class="posttitle">{{ page.title }}</h1>
 
+    <!-- Post Subtitle -->
+    {% if page.subtitle %}
+    <p class="post-subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+
     <!-- Post Meta -->
     <div class="post-meta mb-3" style="color: #616161; font-size: 14px; font-family: 'Open Sans', sans-serif;">
         <span>{{ page.date | date_to_string }}</span>

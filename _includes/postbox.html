@@ -28,6 +28,9 @@
                 </div>
                 {% endif %}
             </h2>
+            {% if post.subtitle %}
+            <div class="card-subtitle">{{ post.subtitle }}</div>
+            {% endif %}
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
             <div class="reading-time">{{ post.content | number_of_words | divided_by: 180 | plus: 1 }} min read</div>
         </div>

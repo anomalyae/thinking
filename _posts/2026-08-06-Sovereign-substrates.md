@@ -134,9 +134,9 @@ There are operational mismatches as organizations tend to work in vertical silos
 
 <h4 class="section-header">Anomaly's Stance: Composable Proof-of-Concept</h4>
 
-<p>We believe AI fundamentally changes the operation, value and capability of software, and this requires a new architecture for human-software interaction.</p>
+<p>We believe integrating AI fundamentally changes the operation, value and capability of software, and this requires a new architecture for human-software interaction. <a href="https://www.paradox.website" style="color: #BCA060; text-decoration: none; border-bottom: 1px solid #eaeaea;" target="_blank">Paradox</a> , for example, turns a user's work into a reusable, persistent, machine-operable context layer.</p>
 
-<p>As inference costs collapse, capability standardizes and intelligence converges at comparable levels, the catalyst differentiating performance for the enterprise class will be the substrate and not the model. Building this infrastructure inside the organizational boundary is strategically more sound and sustainable than chasing models and re-platforming annually, while being vulnerable to variable costs and data leakage.</p>
+<p>As inference costs collapse, capabilities standardize and intelligence converges at comparable levels, the catalyst differentiating performance for the enterprise class, or any application for that matter, will be the substrate and not the model or the harness. Building this infrastructure inside the organizational boundary is strategically more sound and sustainable than chasing models and re-platforming annually, while being vulnerable to variable costs and data leakage.</p>
 
 <p>To illustrate this principle, we’ve built a narrow, composable component that can slot into any organization's data conversion layer. <a href="https://www.skygate.network" style="color: #BCA060; text-decoration: none; border-bottom: 1px solid #eaeaea;" target="_blank">Skygate</a> is a candidate intelligence data platform to help organizations create structured, machine-readable candidate objects.</p>
 
